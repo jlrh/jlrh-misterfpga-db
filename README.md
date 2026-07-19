@@ -8,7 +8,8 @@ menú *Scripts*.
 
 > ⚠️ **Solo cores + MRA. Aquí NO hay ROMs.** Los `.mra` son recetas; tú aportas
 > tus propias ROMs (colócalas en `games/mame/`). Sin las ROMs correctas el core
-> no arranca.
+> no arranca. 👉 **[`ROMS.md`](ROMS.md)** indica el set exacto que espera cada
+> core (nombre de zip, variante **non-merged**, versión **MAME 0.288** y CRC de cada ROM).
 
 > ℹ️ **Un único db por plataforma.** Este repo sustituye a los antiguos db por
 > familia (`gaelco-fpga-db`, …). Si ya tenías uno de esos, cambia su `db_url` por
