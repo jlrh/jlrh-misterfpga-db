@@ -54,21 +54,21 @@ publicada. No se edita a mano.
 
 <!-- CORES:AUTO:START -->
 
-| Juego | Año | Familia | Core (`.rbf`) | MRA |
-|-------|-----|---------|---------------|-----|
-| Destroyer (Cidelsa, 1980) | 1980 | cidelsa | `destroyer_20260702` | Destroyer (Cidelsa, 1980).mra |
-| Empire City 1931 (Seibu, 1986) | 1986 | seibu | `empirecity_20260718` | Empire City 1931 (Seibu, 1986).mra |
-| Big Karnak (Gaelco, 1991) | 1991 | gaelco | `bigkarnk_20260701` | Big Karnak (Gaelco, 1991).mra |
-| Squash (Gaelco, 1992) | 1992 | gaelco | `squash_20260714` | Squash (Gaelco, 1992).mra |
-| Thunder Hoop (Gaelco, 1992) | 1992 | gaelco | `thoop_20260714` | Thunder Hoop (Gaelco, 1992).mra |
-| Glass (Gaelco, 1993) | 1993 | gaelco | `glass_20260713` | Glass (Gaelco, 1993).mra |
-| World Rally Championship (Gaelco, 1993, checksum 3873) | 1993 | gaelco | `wrally_20260701` | World Rally Championship (Gaelco, 1993, checksum 3873).mra |
-| World Rally Championship (Gaelco, 1993, checksum DE0D) | 1993 | gaelco | `wrally_20260701` | World Rally Championship (Gaelco, 1993, checksum DE0D).mra |
-| Alligator Hunt (Gaelco, 1994) | 1994 | gaelco | `aligator_20260714` | Alligator Hunt (Gaelco, 1994).mra |
-| TH Strikes Back (Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (Gaelco, 1994).mra |
-| Biomechanical Toy (Gaelco, 1995) | 1995 | gaelco | `biomtoy_20260714` | Biomechanical Toy (Gaelco, 1995).mra |
-| World Rally 2 (Gaelco, 1995) | 1995 | gaelco | `wrally2_20260701` | World Rally 2 (Gaelco, 1995).mra |
-| Operation Wolf (World, rev 2, set 1) |  | taito | `opwolf_20260718` | Operation Wolf (World, rev 2, set 1).mra |
+| Juego | Año | Familia | Core (`.rbf`) | MRA | ROMs ([0.288 non-merged](ROMS.md)) |
+|-------|-----|---------|---------------|-----|------------------------------------|
+| Destroyer (Cidelsa, 1980) | 1980 | cidelsa | `destroyer_20260702` | Destroyer (Cidelsa, 1980).mra | `destryer.zip` |
+| Empire City 1931 (Seibu, 1986) | 1986 | seibu | `empirecity_20260718` | Empire City 1931 (Seibu, 1986).mra | `empcity.zip` |
+| Big Karnak (Gaelco, 1991) | 1991 | gaelco | `bigkarnk_20260701` | Big Karnak (Gaelco, 1991).mra | `bigkarnk.zip` |
+| Squash (Gaelco, 1992) | 1992 | gaelco | `squash_20260714` | Squash (Gaelco, 1992).mra | `squash.zip` |
+| Thunder Hoop (Gaelco, 1992) | 1992 | gaelco | `thoop_20260714` | Thunder Hoop (Gaelco, 1992).mra | `thoop.zip` |
+| Glass (Gaelco, 1993) | 1993 | gaelco | `glass_20260713` | Glass (Gaelco, 1993).mra | `glassa.zip` |
+| World Rally Championship (Gaelco, 1993, checksum 3873) | 1993 | gaelco | `wrally_20260701` | World Rally Championship (Gaelco, 1993, checksum 3873).mra | `wrallyc.zip` |
+| World Rally Championship (Gaelco, 1993, checksum DE0D) | 1993 | gaelco | `wrally_20260701` | World Rally Championship (Gaelco, 1993, checksum DE0D).mra | `wrally.zip` |
+| Alligator Hunt (Gaelco, 1994) | 1994 | gaelco | `aligator_20260714` | Alligator Hunt (Gaelco, 1994).mra | `aligator.zip` |
+| TH Strikes Back (Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (Gaelco, 1994).mra | `thoop2.zip` |
+| Biomechanical Toy (Gaelco, 1995) | 1995 | gaelco | `biomtoy_20260714` | Biomechanical Toy (Gaelco, 1995).mra | `biomtoy.zip` |
+| World Rally 2 (Gaelco, 1995) | 1995 | gaelco | `wrally2_20260701` | World Rally 2 (Gaelco, 1995).mra | `wrally2.zip` |
+| Operation Wolf (World, rev 2, set 1) |  | taito | `opwolf_20260718` | Operation Wolf (World, rev 2, set 1).mra | `opwolf.zip` |
 
 <!-- CORES:AUTO:END -->
 
