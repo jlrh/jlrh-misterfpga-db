@@ -61,7 +61,8 @@ publicada. No se edita a mano.
 | Squash (Gaelco, 1992) | 1992 | gaelco | `squash_20260714` | Squash (Gaelco, 1992).mra |
 | Thunder Hoop (Gaelco, 1992) | 1992 | gaelco | `thoop_20260714` | Thunder Hoop (Gaelco, 1992).mra |
 | Glass (Gaelco, 1993) | 1993 | gaelco | `glass_20260713` | Glass (Gaelco, 1993).mra |
-| World Rally Championship (Gaelco, 1993) | 1993 | gaelco | `wrally_20260701` | World Rally Championship (Gaelco, 1993).mra |
+| World Rally Championship (Gaelco, 1993, checksum 3873) | 1993 | gaelco | `wrally_20260701` | World Rally Championship (Gaelco, 1993, checksum 3873).mra |
+| World Rally Championship (Gaelco, 1993, checksum DE0D) | 1993 | gaelco | `wrally_20260701` | World Rally Championship (Gaelco, 1993, checksum DE0D).mra |
 | Alligator Hunt (Gaelco, 1994) | 1994 | gaelco | `aligator_20260714` | Alligator Hunt (Gaelco, 1994).mra |
 | TH Strikes Back (Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (Gaelco, 1994).mra |
 | Biomechanical Toy (Gaelco, 1995) | 1995 | gaelco | `biomtoy_20260714` | Biomechanical Toy (Gaelco, 1995).mra |
@@ -69,6 +70,13 @@ publicada. No se edita a mano.
 | Operation Wolf (World, rev 2, set 1) |  | taito | `opwolf_20260718` | Operation Wolf (World, rev 2, set 1).mra |
 
 <!-- CORES:AUTO:END -->
+
+> **World Rally Championship** viene en **dos variantes**, que se distinguen por el *checksum* que el
+> juego muestra al arrancar. Ambas usan el **mismo `.rbf`**; solo cambia la ROM:
+> - **checksum DE0D** — coche con **4 faros** en la presentación (set `wrally` → **`wrally.zip`**).
+> - **checksum 3873** — coche con **2 faros** (set `wrallyc` → **`wrallyc.zip`**).
+>
+> Necesitas el `.zip` correspondiente a la variante que quieras (romset **MAME 0.288 non-merged**).
 
 ---
 
