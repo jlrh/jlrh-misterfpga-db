@@ -55,6 +55,8 @@ publicada. No se edita a mano.
 
 | Juego | Año | Familia | Core (`.rbf`) | MRA |
 |-------|-----|---------|---------------|-----|
+| Destroyer (Cidelsa, 1980) | 1980 | cidelsa | `destroyer_20260702` | Destroyer (Cidelsa, 1980).mra |
+| Empire City 1931 (Seibu, 1986) | 1986 | seibu | `empirecity_20260718` | Empire City 1931 (Seibu, 1986).mra |
 | Big Karnak (Gaelco, 1991) | 1991 | gaelco | `bigkarnk_20260701` | Big Karnak (Gaelco, 1991).mra |
 | Squash (Gaelco, 1992) | 1992 | gaelco | `squash_20260714` | Squash (Gaelco, 1992).mra |
 | Thunder Hoop (Gaelco, 1992) | 1992 | gaelco | `thoop_20260714` | Thunder Hoop (Gaelco, 1992).mra |
