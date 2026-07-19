@@ -69,6 +69,7 @@ publicada. No se edita a mano.
 | Biomechanical Toy (Gaelco, 1995) | 1995 | gaelco | `biomtoy_20260714` | Biomechanical Toy (Gaelco, 1995).mra | `biomtoy.zip` |
 | World Rally 2 (Gaelco, 1995) | 1995 | gaelco | `wrally2_20260701` | World Rally 2 (Gaelco, 1995).mra | `wrally2.zip` |
 | Operation Wolf (World, rev 2, set 1) |  | taito | `opwolf_20260718` | Operation Wolf (World, rev 2, set 1).mra | `opwolf.zip` |
+| Wild West C.O.W.-Boys of Moo Mesa (ver EAB) |  | konami | `cowboys_20260719` | Wild West C.O.W.-Boys of Moo Mesa (ver EAB).mra | `moomesa.zip` |
 
 <!-- CORES:AUTO:END -->
 
