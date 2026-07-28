@@ -1,6 +1,6 @@
 <misterromdescription>
     <rbf>opwolf</rbf>
-    <name>Operation Wolf (World, rev 2, set 1)</name>
+    <name>Operation Wolf (FF, World, rev 2, set 1)</name>
     <setname>opwolf</setname>
     <year>1987</year>
     <manufacturer>Taito</manufacturer>
@@ -35,7 +35,7 @@
          ✅ Verificar SIEMPRE con los DOS pasos (GOTCHAS §J5):
               _opwolf_mra2rom.sh opwolf     -> la .mra == el rom.bin del sim
               jtsim -load                   -> y esa imagen, POR EL CAMINO DE LA PLACA, es correcta -->
-    <rom index="0" zip="opwolf.zip" type="merged" md5="none">
+    <rom index="0" zip="opwolf.zip|chip.zip" type="merged" md5="none">
         <!-- 0x000000: programa 68000 (256 KB) -->
         <interleave output="16">
             <part name="b20-05-02.40" crc="3ffbfe3a" map="10"/>

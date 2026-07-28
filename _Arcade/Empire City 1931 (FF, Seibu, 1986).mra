@@ -30,7 +30,7 @@
            2) scripts/_empirecity_loadtest.sh con ESE .rom         -> frame con contenido == MAME 0.0000%
     -->
     <rbf>empirecity</rbf>
-    <name>Empire City: 1931 (Seibu, 1986)</name>
+    <name>Empire City: 1931 (FF, Seibu, 1986)</name>
     <setname>empcity</setname>
     <year>1986</year>
     <manufacturer>Seibu Kaihatsu</manufacturer>

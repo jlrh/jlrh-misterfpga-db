@@ -1,6 +1,6 @@
 <misterromdescription>
 	<about author="cidelsa-fpga"/>
-	<name>Destroyer (Cidelsa, 1980)</name>
+	<name>Destroyer (FF, Cidelsa, 1980)</name>
 	<setname>destryer</setname>
 	<rbf>destroyer</rbf>
 	<manufacturer>Cidelsa</manufacturer>
@@ -8,7 +8,7 @@
 	<category>Shooter</category>
 
 	<!-- ROM de programa 8KB (4x2KB) -> índice 0, cargada por ioctl a la `rom` del core. -->
-	<rom index="0" zip="destryer.zip" md5="none">
+	<rom index="0" zip="destryer.zip" type="merged" md5="none">
 		<part name="des a 2.ic4" crc="63749870"/>
 		<part name="des b 2.ic5" crc="60604f40"/>
 		<part name="des c 2.ic6" crc="a7cdeb7b"/>
