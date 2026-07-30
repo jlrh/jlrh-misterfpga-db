@@ -67,7 +67,7 @@ publicada. No se edita a mano.
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `biomtoy_20260714` | Biomechanical Toy (FF, Gaelco, 1995).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `wrally2_20260701` | World Rally 2 (FF, Gaelco, 1995).mra |
-| Asterix (FF ver EAD) |  | konami | `asterix_20260728` | Asterix (FF ver EAD).mra |
+| Asterix (FF ver EAD) |  | konami | `asterix_20260730` | Asterix (FF ver EAD).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `opwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `wrally_20260701` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `wrally_20260701` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
