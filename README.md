@@ -20,20 +20,6 @@ menú *Scripts*.
 
 ## Cómo instalarlo en tu MiSTer
 
-Tienes dos opciones. Con **cualquiera** de las dos, la próxima vez que ejecutes
-`update` o `update_all` desde el menú *Scripts* se descargarán los cores.
-
-### Opción A — Update All (recomendada)
-
-1. Abre `Scripts → update_all`.
-2. Entra en **Databases** y añade la URL de esta base de datos:
-   ```
-   https://raw.githubusercontent.com/jlrh/jlrh-misterfpga-db/db/db.json.zip
-   ```
-3. Guarda y ejecuta. Update All sincroniza estos cores junto al resto.
-
-### Opción B — Downloader (manual)
-
 Añade esta sección a tu `downloader.ini` (en la raíz de la SD):
 
 ```ini
