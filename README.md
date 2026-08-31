@@ -1,6 +1,6 @@
 # jlrh — Arcade cores para MiSTer (base de datos unificada)
 
-Base de datos única para el **MiSTer Downloader / Update All** con **todos** los
+Base de datos única para el **MiSTer Downloader** con **todos** los
 cores arcade portados a MiSTer (FPGA) por [**jlrh**](https://github.com/jlrh):
 Gaelco, Taito (Seibu) y las familias que se vayan publicando. Al añadir esta
 base de datos, tus `.rbf` y `.mra` se instalan y **actualizan solos** desde el
