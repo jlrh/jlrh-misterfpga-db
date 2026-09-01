@@ -50,6 +50,7 @@ publicada. No se edita a mano.
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `wrally2_20260701` | World Rally 2 (FF, Gaelco, 1995).mra |
 | Asterix (FF ver EAD) |  | konami | `asterix_20260730` | Asterix (FF ver EAD).mra |
+| Biomechanical Toy (FF, Gaelco, 1995) |  |  | `biomtoy_20260901` | Biomechanical Toy (FF, Gaelco, 1995).mra |
 | Martial Champion (FF ver EAB) |  |  | `mtlchamp_20260825` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) |  |  | `mystwarr_20260824` | Mystic Warriors (FF ver EAA).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `opwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
