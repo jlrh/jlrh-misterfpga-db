@@ -56,6 +56,7 @@ publicada. No se edita a mano.
 | Squash (FF, Gaelco, 1992) |  |  | `squash_20260901` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
+| Thunder Hoop (FF, Gaelco, 1992) |  |  | `thoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `wrally_20260701` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `wrally_20260701` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
 
