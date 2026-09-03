@@ -76,5 +76,5 @@
         <dip name="Coin Mechanism" bits="5" ids="Independent,Common"/>
         <dip name="Number of Players" bits="6" ids="4,2"/>
     </switches>
-    <buttons names="Attack,Jump,Special,Start,Coin,Core credits" default="A,B,X,Start,Select,-" count="3"/>
+    <buttons names="Shoot,Jump,-,Start,Coin,Core credits" default="A,B,X,Start,Select,-" count="2"/>
 </misterromdescription>
