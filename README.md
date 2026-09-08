@@ -48,7 +48,7 @@ publicada. No se edita a mano.
 | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991) | 1991 | konami | `blswhstl_20260903` | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra |
 | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992) | 1992 | konami | `moomesa_20260728` | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra |
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `glass_20260713` | Glass (FF, Gaelco, 1993).mra |
-| Martial Champion (FF ver EAB) | 1993 | konami | `mtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
+| Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260908` | Mystic Warriors (FF ver EAA).mra |
 | Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `aligator_20260714` | Alligator Hunt (FF, Gaelco, 1994).mra |
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (FF, Gaelco, 1994).mra |
