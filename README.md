@@ -44,17 +44,14 @@ publicada. No se edita a mano.
 |-------|-----|---------|---------------|-----|
 | Destroyer (FF, Cidelsa, 1980) | 1980 | cidelsa | `destroyer_20260702` | Destroyer (FF, Cidelsa, 1980).mra |
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `empirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
-| Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `bigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
+| Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `ffbigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
 | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991) | 1991 | konami | `blswhstl_20260903` | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra |
-| Squash (FF, Gaelco, 1992) | 1992 | gaelco | `squash_20260901` | Squash (FF, Gaelco, 1992).mra |
-| Thunder Hoop (FF, Gaelco, 1992) | 1992 | gaelco | `thoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
 | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992) | 1992 | konami | `moomesa_20260728` | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra |
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `glass_20260713` | Glass (FF, Gaelco, 1993).mra |
 | Martial Champion (FF ver EAB) | 1993 | konami | `mtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260908` | Mystic Warriors (FF ver EAA).mra |
 | Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `aligator_20260714` | Alligator Hunt (FF, Gaelco, 1994).mra |
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (FF, Gaelco, 1994).mra |
-| Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `biomtoy_20260901` | Biomechanical Toy (FF, Gaelco, 1995).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `wrally2_20260701` | World Rally 2 (FF, Gaelco, 1995).mra |
 | Asterix (FF ver EAD) |  | konami | `asterix_20260730` | Asterix (FF ver EAD).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `opwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
