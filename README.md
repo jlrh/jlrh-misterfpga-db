@@ -46,7 +46,7 @@ publicada. No se edita a mano.
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `empirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
 | Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `ffbigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
 | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991) | 1991 | konami | `ffblswhstl_20260903` | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra |
-| Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992) | 1992 | konami | `moomesa_20260728` | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra |
+| Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992) | 1992 | konami | `ffmoomesa_20260728` | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra |
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `glass_20260713` | Glass (FF, Gaelco, 1993).mra |
 | Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260908` | Mystic Warriors (FF ver EAA).mra |
