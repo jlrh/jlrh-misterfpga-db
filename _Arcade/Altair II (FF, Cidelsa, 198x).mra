@@ -1,0 +1,28 @@
+<misterromdescription>
+    <about author="cidelsa-fpga"/>
+    <rbf>ffaltair</rbf>
+    <name>Altair II (FF, Cidelsa, 198?)</name>
+    <setname>altair2</setname>
+    <manufacturer>Cidelsa</manufacturer>
+    <year>198?</year>
+    <category>Shooter</category>
+
+    <rom index="0" zip="altair2.zip" type="merged" md5="none">
+
+        <part name="alta2-2716.ic7" crc="e82833ab"/>
+        <part name="altb2-2716.ic8" crc="92df504a"/>
+        <part name="altc2-2716.ic9" crc="a4e33775"/>
+        <part name="altd2-2716.ic10" crc="79b56041"/>
+        <part name="alte2-2716.ic11" crc="be7fdb42"/>
+        <part name="altf2-2716.ic12" crc="cf74b50f"/>
+    </rom>
+
+	<switches default="0xff" base="16">
+		<dip name="Difficulty" bits="0,1" ids="Very Hard,Hard,Easy,Very Easy"/>
+		<dip name="Bonus Life" bits="2,3" ids="14000,10000,7000,5000"/>
+		<dip name="Lives" bits="4,5" ids="4,3,2,1"/>
+		<dip name="Coinage" bits="6,7" ids="A2.5/B5,A2/B4,A1.5/B3,A1/B2"/>
+	</switches>
+
+	<buttons names="Fire,Fire 2,Start 1P,Start 2P,Coin" default="A,B,Start,R,Select"/>
+</misterromdescription>

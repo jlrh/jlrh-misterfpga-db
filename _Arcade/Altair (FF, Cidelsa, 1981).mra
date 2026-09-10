@@ -1,0 +1,28 @@
+<misterromdescription>
+    <about author="cidelsa-fpga"/>
+    <rbf>ffaltair</rbf>
+    <name>Altair (FF, Cidelsa, 1981)</name>
+    <setname>altair</setname>
+    <manufacturer>Cidelsa</manufacturer>
+    <year>1981</year>
+    <category>Shooter</category>
+
+    <rom index="0" zip="altair.zip" type="merged" md5="none">
+
+        <part name="alt a 1.ic7" crc="37c26c4e"/>
+        <part name="alt b 1.ic8" crc="76b814a4"/>
+        <part name="alt c 1.ic9" crc="2569ce44"/>
+        <part name="alt d 1.ic10" crc="a25e6d11"/>
+        <part name="alt e 1.ic11" crc="e497f23b"/>
+        <part name="alt f 1.ic12" crc="a06dd905"/>
+    </rom>
+
+	<switches default="0xff" base="16">
+		<dip name="Difficulty" bits="0,1" ids="Very Hard,Hard,Easy,Very Easy"/>
+		<dip name="Bonus Life" bits="2,3" ids="14000,10000,7000,5000"/>
+		<dip name="Lives" bits="4,5" ids="4,3,2,1"/>
+		<dip name="Coinage" bits="6,7" ids="A2.5/B5,A2/B4,A1.5/B3,A1/B2"/>
+	</switches>
+
+	<buttons names="Fire,Fire 2,Start 1P,Start 2P,Coin" default="A,B,Start,R,Select"/>
+</misterromdescription>
