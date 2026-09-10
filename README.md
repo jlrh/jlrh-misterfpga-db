@@ -42,7 +42,7 @@ publicada. No se edita a mano.
 
 | Juego | Año | Familia | Core (`.rbf`) | MRA |
 |-------|-----|---------|---------------|-----|
-| Destroyer (FF, Cidelsa, 1980) | 1980 | cidelsa | `destroyer_20260702` | Destroyer (FF, Cidelsa, 1980).mra |
+| Destroyer (FF, Cidelsa, 1980) | 1980 | cidelsa | `ffdestroyer_20260907` | Destroyer (FF, Cidelsa, 1980).mra |
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `ffempirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
 | Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `ffbigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
 | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991) | 1991 | konami | `ffblswhstl_20260903` | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra |
