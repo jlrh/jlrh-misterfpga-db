@@ -53,11 +53,11 @@ publicada. No se edita a mano.
 | Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `ffaligator_20260714` | Alligator Hunt (FF, Gaelco, 1994).mra |
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260701` | World Rally 2 (FF, Gaelco, 1995).mra |
-| Altair (FF, Cidelsa, 1981) |  |  | `ffaltair_20260907` | Altair (FF, Cidelsa, 1981).mra |
-| Altair II (FF, Cidelsa, 198x) |  |  | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
+| Altair (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffaltair_20260907` | Altair (FF, Cidelsa, 1981).mra |
+| Altair II (FF, Cidelsa, 198x) | 198? | cidelsa | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260730` | Asterix (FF ver EAD).mra |
 | Biomechanical Toy (FF, Gaelco, 1995) |  |  | `ffbiomtoy_20260901` | Biomechanical Toy (FF, Gaelco, 1995).mra |
-| Draco (FF, Cidelsa, 1981) |  |  | `ffdraco_20260908` | Draco (FF, Cidelsa, 1981).mra |
+| Draco (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffdraco_20260908` | Draco (FF, Cidelsa, 1981).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260901` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
