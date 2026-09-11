@@ -43,21 +43,21 @@ publicada. No se edita a mano.
 | Juego | Año | Familia | Core (`.rbf`) | MRA |
 |-------|-----|---------|---------------|-----|
 | Destroyer (FF, Cidelsa, 1980) | 1980 | cidelsa | `ffdestroyer_20260907` | Destroyer (FF, Cidelsa, 1980).mra |
+| Altair (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffaltair_20260907` | Altair (FF, Cidelsa, 1981).mra |
+| Draco (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffdraco_20260908` | Draco (FF, Cidelsa, 1981).mra |
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `ffempirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
+| Altair II (FF, Cidelsa, 198x) | 198? | cidelsa | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
 | Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `ffbigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
 | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991) | 1991 | konami | `ffblswhstl_20260903` | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra |
 | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992) | 1992 | konami | `ffmoomesa_20260728` | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra |
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `ffglass_20260713` | Glass (FF, Gaelco, 1993).mra |
 | Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
-| Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260908` | Mystic Warriors (FF ver EAA).mra |
+| Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260911` | Mystic Warriors (FF ver EAA).mra |
 | Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `ffaligator_20260714` | Alligator Hunt (FF, Gaelco, 1994).mra |
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260701` | World Rally 2 (FF, Gaelco, 1995).mra |
-| Altair (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffaltair_20260907` | Altair (FF, Cidelsa, 1981).mra |
-| Altair II (FF, Cidelsa, 198x) | 198? | cidelsa | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260730` | Asterix (FF ver EAD).mra |
 | Biomechanical Toy (FF, Gaelco, 1995) |  |  | `ffbiomtoy_20260901` | Biomechanical Toy (FF, Gaelco, 1995).mra |
-| Draco (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffdraco_20260908` | Draco (FF, Cidelsa, 1981).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260901` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
