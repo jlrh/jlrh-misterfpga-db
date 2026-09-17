@@ -64,8 +64,8 @@ publicada. No se edita a mano.
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
-| World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `wrally_20260701` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
-| World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `wrally_20260701` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
+| World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260917` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
+| World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260917` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
 
 <!-- CORES:AUTO:END -->
 
