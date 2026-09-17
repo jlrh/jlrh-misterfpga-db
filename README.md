@@ -54,7 +54,7 @@ publicada. No se edita a mano.
 | Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260911` | Mystic Warriors (FF ver EAA).mra |
 | Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `ffaligator_20260714` | Alligator Hunt (FF, Gaelco, 1994).mra |
-| TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `thoop2_20260714` | TH Strikes Back (FF, Gaelco, 1994).mra |
+| TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `ffthoop2_20260917` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260730` | Asterix (FF ver EAD).mra |
