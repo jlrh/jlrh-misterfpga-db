@@ -53,7 +53,7 @@ publicada. No se edita a mano.
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `ffglass_20260917` | Glass (FF, Gaelco, 1993).mra |
 | Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260911` | Mystic Warriors (FF ver EAA).mra |
-| Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `ffaligator_20260917` | Alligator Hunt (FF, Gaelco, 1994).mra |
+| Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `ffaligator_20260918` | Alligator Hunt (FF, Gaelco, 1994).mra |
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `ffthoop2_20260917` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `ffbiomtoy_20260918` | Biomechanical Toy (FF, Gaelco, 1995).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
