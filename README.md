@@ -47,9 +47,12 @@ publicada. No se edita a mano.
 | Draco (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffdraco_20260908` | Draco (FF, Cidelsa, 1981).mra |
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `ffempirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
 | Altair II (FF, Cidelsa, 198x) | 198? | cidelsa | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
+| Hammer Boy (FF, Dinamic-Inder, 1990) | 1990 | inder | `ffmegaphx_20260925` | Hammer Boy (FF, Dinamic-Inder, 1990).mra |
 | Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `ffbigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
 | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991) | 1991 | konami | `ffblswhstl_20260903` | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra |
+| Mega Phoenix (FF, Dinamic-Inder, 1991) | 1991 | inder | `ffmegaphx_20260925` | Mega Phoenix (FF, Dinamic-Inder, 1991).mra |
 | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992) | 1992 | konami | `ffmoomesa_20260728` | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra |
+| YoYo Spell (prototype) (FF, Inder, 1992) | 1992 | inder | `ffmegaphx_20260925` | YoYo Spell (prototype) (FF, Inder, 1992).mra |
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `ffglass_20260917` | Glass (FF, Gaelco, 1993).mra |
 | Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260911` | Mystic Warriors (FF ver EAA).mra |
@@ -59,8 +62,6 @@ publicada. No se edita a mano.
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260730` | Asterix (FF ver EAD).mra |
-| Hammer Boy (FF, Dinamic-Inder, 1990) | 1990 | inder | `ffmegaphx_20260925` | Hammer Boy (FF, Dinamic-Inder, 1990).mra |
-| Mega Phoenix (FF, Dinamic-Inder, 1991) | 1991 | inder | `ffmegaphx_20260925` | Mega Phoenix (FF, Dinamic-Inder, 1991).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
@@ -68,7 +69,6 @@ publicada. No se edita a mano.
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
-| YoYo Spell (prototype) (FF, Inder, 1992) | 1992 | inder | `ffmegaphx_20260925` | YoYo Spell (prototype) (FF, Inder, 1992).mra |
 
 <!-- CORES:AUTO:END -->
 
