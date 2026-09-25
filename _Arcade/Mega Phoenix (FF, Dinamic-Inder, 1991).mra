@@ -1,0 +1,55 @@
+<!-- This core incorporates JTFRAME/jtcores components licensed under GNU GPLv2.
+     License text: https://opensource.org/licenses/gpl-2.0.php -->
+
+<misterromdescription>
+    <rotation>horizontal</rotation>
+    <name>Mega Phoenix (FF, Dinamic-Inder, 1991)</name>
+    <setname>megaphx</setname>
+    <mameversion>0288</mameversion>
+    <year>1991</year>
+    <manufacturer>Dinamic / Inder</manufacturer>
+    <players>2</players>
+    <rbf>ffmegaphx</rbf>
+    <joystick>8</joystick>
+    <region>World</region>
+    <rom index="0" zip="megaphx.zip" md5="None" asm_md5="9e0ab6e5810e2c11f53dafc2fd8ea0a2">
+        <part>
+            00 00 00 00 00 00 00 00
+            00 00 00 00 00 00 00 00
+        </part>
+        <interleave output="16">
+            <part name="mph6.u32" crc="b99703d4" map="01"/>
+            <part name="mph7.u21" crc="f11e7449" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="mph0.u38" crc="b63dd20f" map="01"/>
+            <part name="mph1.u27" crc="4dcbf44b" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="mph2.u37" crc="a0f69c27" map="01"/>
+            <part name="mph3.u26" crc="4db84cc5" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="mph4.u36" crc="c8e0725e" map="01"/>
+            <part name="mph5.u25" crc="c95ccb69" map="10"/>
+        </interleave>
+        <part repeat="0x40000"> FF</part>
+        <part name="sonido_mph1.u39" crc="f5e65557"/>
+        <part name="sonido_mph2.u38" crc="7444d0f9"/>
+        <part name="sonido_mph0.u35" crc="abc1b140"/>
+    </rom>
+    <rom index="1">
+        <part>00 80</part>
+    </rom>
+    <switches page_id="1" page_name="Switches" base="16" default="9b,f0">
+        <DSW1/>
+        <dip name="Coin A" bits="0,2" ids="1/4,1/3,1/2,1/1,2/1,3/1,4/1,5/1"/>
+        <dip name="Coin B" bits="3,5" ids="1/4,1/3,1/2,1/1,2/1,3/1,4/1,5/1"/>
+        <dip name="Lives" bits="6,7" ids="2,3,4,5"/>
+        <DSW2/>
+        <dip name="Demo Sounds" bits="8" ids="On,Off"/>
+        <dip name="Service Mode" bits="9" ids="Off,On"/>
+        <dip name="Difficulty" bits="10,12" ids="0,1,2,3,4,5,6,7"/>
+    </switches>
+    <buttons names="button 1,button 2,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
+</misterromdescription>
