@@ -69,7 +69,7 @@ publicada. No se edita a mano.
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
-| Xexex (FF ver EAA) |  |  | `ffxexex_20260929` | Xexex (FF ver EAA).mra |
+| Xexex (FF ver EAA) | 1991 | konami | `ffxexex_20260929` | Xexex (FF ver EAA).mra |
 
 <!-- CORES:AUTO:END -->
 
