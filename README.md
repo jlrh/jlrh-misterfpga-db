@@ -51,6 +51,7 @@ publicada. No se edita a mano.
 | Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `ffbigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
 | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991) | 1991 | konami | `ffblswhstl_20260926` | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra |
 | Mega Phoenix (FF, Dinamic-Inder, 1991) | 1991 | inder | `ffmegaphx_20260925` | Mega Phoenix (FF, Dinamic-Inder, 1991).mra |
+| Xexex (FF ver EAA) | 1991 | konami | `ffxexex_20260930` | Xexex (FF ver EAA).mra |
 | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992) | 1992 | konami | `ffmoomesa_20260728` | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra |
 | YoYo Spell (prototype) (FF, Inder, 1992) | 1992 | inder | `ffmegaphx_20260925` | YoYo Spell (prototype) (FF, Inder, 1992).mra |
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `ffglass_20260917` | Glass (FF, Gaelco, 1993).mra |
@@ -69,7 +70,6 @@ publicada. No se edita a mano.
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
-| Xexex (FF ver EAA) | 1991 | konami | `ffxexex_20260929` | Xexex (FF ver EAA).mra |
 
 <!-- CORES:AUTO:END -->
 
