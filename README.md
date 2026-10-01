@@ -46,6 +46,7 @@ publicada. No se edita a mano.
 | Altair (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffaltair_20260907` | Altair (FF, Cidelsa, 1981).mra |
 | Draco (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffdraco_20260908` | Draco (FF, Cidelsa, 1981).mra |
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `ffempirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
+| WEC Le Mans 24 (FF, Konami, 1986) | 1986 | konami | `ffwecleman_20261001` | WEC Le Mans 24 (FF, Konami, 1986).mra |
 | Altair II (FF, Cidelsa, 198x) | 198? | cidelsa | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
 | Hammer Boy (FF, Dinamic-Inder, 1990) | 1990 | inder | `ffmegaphx_20260925` | Hammer Boy (FF, Dinamic-Inder, 1990).mra |
 | Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `ffbigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
@@ -68,7 +69,6 @@ publicada. No se edita a mano.
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
-| WEC Le Mans 24 (FF, Konami, 1986) |  |  | `ffwecleman_20261001` | WEC Le Mans 24 (FF, Konami, 1986).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
 
