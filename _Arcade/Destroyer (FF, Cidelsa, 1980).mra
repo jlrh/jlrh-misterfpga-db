@@ -1,25 +1,23 @@
+<!-- This core incorporates JTFRAME/jtcores components licensed under GNU GPLv2.
+     License text: https://opensource.org/licenses/gpl-2.0.php -->
 <misterromdescription>
-	<about author="cidelsa-fpga"/>
 	<name>Destroyer (FF, Cidelsa, 1980)</name>
 	<setname>destryer</setname>
 	<rbf>ffdestroyer</rbf>
 	<manufacturer>Cidelsa</manufacturer>
 	<year>1980</year>
 	<category>Shooter</category>
-
 	<rom index="0" zip="destryer.zip" md5="none">
 		<part name="des a 2.ic4" crc="63749870"/>
 		<part name="des b 2.ic5" crc="60604f40"/>
 		<part name="des c 2.ic6" crc="a7cdeb7b"/>
 		<part name="des d 2.ic7" crc="dbec0aea"/>
 	</rom>
-
 	<switches default="0xff" base="16">
 		<dip name="Difficulty" bits="0,1" ids="Very Hard,Hard,Easy,Very Easy"/>
 		<dip name="Bonus Life" bits="2,3" ids="14000,10000,7000,5000"/>
 		<dip name="Lives" bits="4,5" ids="4,3,2,1"/>
 		<dip name="Coinage" bits="6,7" ids="A2.5/B5,A2/B4,A1.5/B3,A1/B2"/>
 	</switches>
-
 	<buttons names="Fire,Start 1P,Start 2P,Coin" default="A,Start,R,Select"/>
 </misterromdescription>

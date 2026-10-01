@@ -1,6 +1,5 @@
 <!-- This core incorporates JTFRAME/jtcores components licensed under GNU GPLv2.
      License text: https://opensource.org/licenses/gpl-2.0.php -->
-
 <misterromdescription>
     <rotation>vertical (ccw)</rotation>
     <name>Aero Fighters (FF, Video System, 1992)</name>
@@ -13,23 +12,15 @@
     <joystick>8</joystick>
     <region>Korea</region>
     <rom index="0" zip="aerofgt.zip" md5="None">
-
         <part name="1.u4" crc="6fdff0a2"/>
-
         <part name="2.153" crc="a1ef64ec"/>
-
         <part name="538a54.124" crc="4d2c4df2"/>
         <part name="1538a54.124" crc="286d109e"/>
-
         <part name="538a53.u9" crc="630d8e0b"/>
         <part name="534g8f.u18" crc="76ce0926"/>
-
         <part name="it-19-01" crc="6d42723d"/>
-
         <part name="it-19-06" crc="cdbbdb1d"/>
-
     </rom>
-
     <rom index="1">
         <part>01 80</part>
     </rom>
