@@ -80,6 +80,13 @@ publicada. No se edita a mano.
 >
 > Necesitas el `.zip` correspondiente a la variante que quieras (romset **MAME 0.288 non-merged**).
 
+> **Xexex** viene en **cuatro versiones regionales** con el **mismo `.rbf`**: la principal
+> `Xexex (FF ver EAA)` (Europa) en `_Arcade/`, y en `_Arcade/_alternatives/_Xexex/` las otras tres:
+> `Orius (FF ver UAA)` (EE. UU.), `Xexex (FF ver AAA)` (Asia) y `Xexex (FF ver JAA)` (Japón).
+>
+> ⚠️ Excepción a la regla *non-merged*: las cuatro piden el romset **merged** de MAME 0.288
+> (**`xexex.zip`** con el padre y los tres clones dentro). Ver [`ROMS.md`](ROMS.md).
+
 ---
 
 ## Estructura del repositorio
@@ -89,6 +96,8 @@ La estructura de carpetas se replica **idéntica** en la SD del MiSTer:
 ```
 _Arcade/
 ├── *.mra              → _Arcade/ en la SD
+├── _alternatives/
+│   └── _<Juego>/*.mra → otras versiones del mismo juego (mismo .rbf)
 └── cores/
     └── *.rbf          → _Arcade/cores/ en la SD
 ```

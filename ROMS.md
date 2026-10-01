@@ -25,12 +25,17 @@ y por CRC de cada ROM contra el `.mra`.
 | World Rally 2 (Gaelco, 1995) | `wrally2.zip` | 0.288 | **⚠ pendiente** | parent |
 | World Rally Championship (Gaelco, 1993, checksum 3873) | `wrallyc.zip` | 0.288 | ✅ | clon de `wrally` |
 | World Rally Championship (Gaelco, 1993, checksum DE0D) | `wrally.zip` | 0.288 | ✅ | parent |
+| Xexex (ver EAA) (Konami, 1991) | `xexex.zip` **merged** | 0.288 | — (merged) | parent |
+| Orius (ver UAA) (Konami, 1991) | `xexex.zip` **merged** | 0.288 | — (merged) | clon de `xexex` |
+| Xexex (ver AAA) (Konami, 1991) | `xexex.zip` **merged** | 0.288 | — (merged) | clon de `xexex` |
+| Xexex (ver JAA) (Konami, 1991) | `xexex.zip` **merged** | 0.288 | — (merged) | clon de `xexex` |
 
 **Notas:**
 - `best available` en `-verifyroms` = programa+gfx+sonido correctos; solo faltan **PLDs** (GAL/PAL, muchos sin dump), que el `.mra` no usa → equivale a set completo.
 - **Glass** usa el clon `glassa` (con `glass` de *fallback* por pipe en el `.mra`); su programa `1.c23`/`2.c22` es distinto al del parent `glass` (`europa_c23…`).
 - **World Rally** tiene dos revisiones: `wrally` (parent, checksum DE0D, 4 faros) y `wrallyc` (clon, checksum 3873, 2 faros).
 - **World Rally 2** ⚠ pendiente: el `.mra` espera un set no publicado como zip único (ver `HANDOFF`).
+- **Xexex** es la **excepción**: sus cuatro `.mra` (la principal `Xexex (FF ver EAA)` y las alternativas `Orius (FF ver UAA)`, `Xexex (FF ver AAA)` y `Xexex (FF ver JAA)` en `_Arcade/_alternatives/_Xexex/`) piden el romset **merged** `xexex.zip` (padre + los tres clones en el mismo zip). Con un `xexex.zip` non-merged solo arranca la principal.
 
 ## Detalle por core (nombre + CRC de cada ROM del `.mra`)
 
@@ -245,3 +250,86 @@ y por CRC de cada ROM contra el `.mra`.
 | `worldr15.c03` | `11f0fe2c` | OK |
 | `wrdallas.bin` | `547d1768` | OK |
 
+### Xexex (ver EAA) (Konami, 1991)
+
+- **zip:** `xexex.zip` · **parent** (set `xexex`) · MAME 0.288 **merged** · set completo
+
+| ROM | CRC | en zip |
+|---|---|:--:|
+| `067eaa02.16f` | `36ea7a48` | OK |
+| `067eaa01.16d` | `3ebcb066` | OK |
+| `067b04.13f` | `26ec5dc8` | OK |
+| `067b03.13d` | `97833086` | OK |
+| `067eaa05.4e` | `0e33d6ec` | OK |
+| `067b06.3e` | `3b12fce4` | OK |
+| `067b07.1e` | `ec87fe1b` | OK |
+| `067b08.22f` | `ca816b7b` | OK |
+| `067b14.1n` | `02a44bfa` | OK |
+| `067b13.2n` | `633c8eb5` | OK |
+| `067b12.17n` | `08d611b0` | OK |
+| `067b11.19n` | `a26f7507` | OK |
+| `067b10.20n` | `ee31db8d` | OK |
+| `067b09.22n` | `88f072ef` | OK |
+
+### Orius (ver UAA) (Konami, 1991)
+
+- **zip:** `xexex.zip` · **clon de `xexex`** (set `orius`) · MAME 0.288 **merged** · set completo
+
+| ROM | CRC | en zip |
+|---|---|:--:|
+| `067uaa02.16f` | `77709f64` | OK |
+| `067uaa01.16d` | `f1263d3e` | OK |
+| `067b04.13f` | `26ec5dc8` | OK |
+| `067b03.13d` | `97833086` | OK |
+| `067uaa05.4e` | `0e33d6ec` | OK |
+| `067b06.3e` | `3b12fce4` | OK |
+| `067b07.1e` | `ec87fe1b` | OK |
+| `067b08.22f` | `ca816b7b` | OK |
+| `067b14.1n` | `02a44bfa` | OK |
+| `067b13.2n` | `633c8eb5` | OK |
+| `067b12.17n` | `08d611b0` | OK |
+| `067b11.19n` | `a26f7507` | OK |
+| `067b10.20n` | `ee31db8d` | OK |
+| `067b09.22n` | `88f072ef` | OK |
+
+### Xexex (ver AAA) (Konami, 1991)
+
+- **zip:** `xexex.zip` · **clon de `xexex`** (set `xexexa`) · MAME 0.288 **merged** · set completo
+
+| ROM | CRC | en zip |
+|---|---|:--:|
+| `067aaa02.16f` | `b7b98d52` | OK |
+| `067aaa01.16d` | `cf557144` | OK |
+| `067b04.13f` | `26ec5dc8` | OK |
+| `067b03.13d` | `97833086` | OK |
+| `067eaa05.4e` | `0e33d6ec` | OK |
+| `067b06.3e` | `3b12fce4` | OK |
+| `067b07.1e` | `ec87fe1b` | OK |
+| `067b08.22f` | `ca816b7b` | OK |
+| `067b14.1n` | `02a44bfa` | OK |
+| `067b13.2n` | `633c8eb5` | OK |
+| `067b12.17n` | `08d611b0` | OK |
+| `067b11.19n` | `a26f7507` | OK |
+| `067b10.20n` | `ee31db8d` | OK |
+| `067b09.22n` | `88f072ef` | OK |
+
+### Xexex (ver JAA) (Konami, 1991)
+
+- **zip:** `xexex.zip` · **clon de `xexex`** (set `xexexj`) · MAME 0.288 **merged** · set completo
+
+| ROM | CRC | en zip |
+|---|---|:--:|
+| `067jaa02.16f` | `30ae5bc4` | OK |
+| `067jaa01.16d` | `06e99784` | OK |
+| `067b04.13f` | `26ec5dc8` | OK |
+| `067b03.13d` | `97833086` | OK |
+| `067jaa05.4e` | `2f4dd0a8` | OK |
+| `067b06.3e` | `3b12fce4` | OK |
+| `067b07.1e` | `ec87fe1b` | OK |
+| `067b08.22f` | `ca816b7b` | OK |
+| `067b14.1n` | `02a44bfa` | OK |
+| `067b13.2n` | `633c8eb5` | OK |
+| `067b12.17n` | `08d611b0` | OK |
+| `067b11.19n` | `a26f7507` | OK |
+| `067b10.20n` | `ee31db8d` | OK |
+| `067b09.22n` | `88f072ef` | OK |
