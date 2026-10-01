@@ -4,44 +4,46 @@
 > conseguir por su cuenta el set de ROMs que indica esta tabla y dejarlo en
 > `/media/fat/games/mame/` (o `hbmame/`) de su MiSTer.
 
-Todos los sets están fijados a **MAME 0.288** en variante **non-merged** (cada zip es
-autosuficiente; no depende del zip del parent). Verificado con `mame0288 -verifyroms`
-y por CRC de cada ROM contra el `.mra`.
+Todos los sets están fijados a **MAME 0.288** en variante **merged**: un único zip con el
+nombre del **parent** que lleva dentro también los clones (los `.mra` lo declaran con
+`type="merged"`). Las versiones alternativas de un juego (clones) usan ese mismo zip.
+Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 
 ## Resumen
 
-| Core (.mra) | zip esperado | MAME | non-merged | tipo 0.288 |
+| Core (.mra) | zip esperado | MAME | merged | tipo 0.288 |
 |---|---|---|:--:|---|
 | Alligator Hunt (Gaelco, 1994) | `aligator.zip` | 0.288 | ✅ | parent |
 | Big Karnak (Gaelco, 1991) | `bigkarnk.zip` | 0.288 | ✅ | parent |
 | Biomechanical Toy (Gaelco, 1995) | `biomtoy.zip` | 0.288 | ✅ | parent |
 | Destroyer (Cidelsa, 1980) | `destryer.zip` | 0.288 | ✅ | parent |
 | Empire City 1931 (Seibu, 1986) | `empcity.zip` | 0.288 | ✅ | parent |
-| Glass (Gaelco, 1993) | `glassa.zip \| glass.zip` | 0.288 | ✅ | clon de `glass` |
-| Operation Wolf (World, rev 2, set 1) | `opwolf.zip` | 0.288 | ✅ | parent |
+| Glass (Gaelco, 1993) | `glass.zip` | 0.288 | ✅ | clon `glassa` (dentro de `glass.zip`) |
+| Operation Wolf (World, rev 2, set 1) | `opwolf.zip` + `cchip.zip` | 0.288 | ✅ | parent (+ dispositivo `cchip`) |
 | Squash (Gaelco, 1992) | `squash.zip` | 0.288 | ✅ | parent |
 | TH Strikes Back (Gaelco, 1994) | `thoop2.zip` | 0.288 | ✅ | parent |
 | Thunder Hoop (Gaelco, 1992) | `thoop.zip` | 0.288 | ✅ | parent |
 | World Rally 2 (Gaelco, 1995) | `wrally2.zip` | 0.288 | **⚠ pendiente** | parent |
-| World Rally Championship (Gaelco, 1993, checksum 3873) | `wrallyc.zip` | 0.288 | ✅ | clon de `wrally` |
+| World Rally Championship (Gaelco, 1993, checksum 3873) | `wrally.zip` | 0.288 | ✅ | clon `wrallyc` (dentro de `wrally.zip`) |
 | World Rally Championship (Gaelco, 1993, checksum DE0D) | `wrally.zip` | 0.288 | ✅ | parent |
-| Xexex (ver EAA) (Konami, 1991) | `xexex.zip` **merged** | 0.288 | — (merged) | parent |
-| Orius (ver UAA) (Konami, 1991) | `xexex.zip` **merged** | 0.288 | — (merged) | clon de `xexex` |
-| Xexex (ver AAA) (Konami, 1991) | `xexex.zip` **merged** | 0.288 | — (merged) | clon de `xexex` |
-| Xexex (ver JAA) (Konami, 1991) | `xexex.zip` **merged** | 0.288 | — (merged) | clon de `xexex` |
+| Xexex (ver EAA) (Konami, 1991) | `xexex.zip` | 0.288 | ✅ | parent |
+| Orius (ver UAA) (Konami, 1991) | `xexex.zip` | 0.288 | ✅ | clon `orius` (dentro de `xexex.zip`) |
+| Xexex (ver AAA) (Konami, 1991) | `xexex.zip` | 0.288 | ✅ | clon `xexexa` (dentro de `xexex.zip`) |
+| Xexex (ver JAA) (Konami, 1991) | `xexex.zip` | 0.288 | ✅ | clon `xexexj` (dentro de `xexex.zip`) |
 
 **Notas:**
 - `best available` en `-verifyroms` = programa+gfx+sonido correctos; solo faltan **PLDs** (GAL/PAL, muchos sin dump), que el `.mra` no usa → equivale a set completo.
-- **Glass** usa el clon `glassa` (con `glass` de *fallback* por pipe en el `.mra`); su programa `1.c23`/`2.c22` es distinto al del parent `glass` (`europa_c23…`).
-- **World Rally** tiene dos revisiones: `wrally` (parent, checksum DE0D, 4 faros) y `wrallyc` (clon, checksum 3873, 2 faros).
+- **Glass** usa el clon `glassa`, que viene dentro del `glass.zip` merged; su programa `1.c23`/`2.c22` es distinto al del parent `glass` (`europa_c23…`).
+- **World Rally** tiene dos revisiones, las dos en el mismo `wrally.zip` merged: `wrally` (parent, checksum DE0D, 4 faros) y `wrallyc` (clon, checksum 3873, 2 faros).
 - **World Rally 2** ⚠ pendiente: el `.mra` espera un set no publicado como zip único (ver `HANDOFF`).
-- **Xexex** es la **excepción**: sus cuatro `.mra` (la principal `Xexex (FF ver EAA)` y las alternativas `Orius (FF ver UAA)`, `Xexex (FF ver AAA)` y `Xexex (FF ver JAA)` en `_Arcade/_alternatives/_Xexex/`) piden el romset **merged** `xexex.zip` (padre + los tres clones en el mismo zip). Con un `xexex.zip` non-merged solo arranca la principal.
+- **Operation Wolf** necesita además `cchip.zip`: la ROM interna del C-Chip (uPD78C11) es un romset de **dispositivo** aparte en MAME, no forma parte de `opwolf.zip`.
+- **Xexex** tiene cuatro `.mra` con el mismo `xexex.zip`: la principal `Xexex (FF ver EAA)` y las alternativas `Orius (FF ver UAA)`, `Xexex (FF ver AAA)` y `Xexex (FF ver JAA)` en `_Arcade/_alternatives/_Xexex/`.
 
 ## Detalle por core (nombre + CRC de cada ROM del `.mra`)
 
 ### Alligator Hunt (Gaelco, 1994)
 
-- **zip:** `aligator.zip` · **parent** · MAME 0.288 non-merged · set completo
+- **zip:** `aligator.zip` · **parent** · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -55,7 +57,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Big Karnak (Gaelco, 1991)
 
-- **zip:** `bigkarnk.zip` · **parent** · MAME 0.288 non-merged · programa+gfx+sonido OK (faltan solo PLDs, no usados)
+- **zip:** `bigkarnk.zip` · **parent** · MAME 0.288 merged · programa+gfx+sonido OK (faltan solo PLDs, no usados)
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -70,7 +72,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Biomechanical Toy (Gaelco, 1995)
 
-- **zip:** `biomtoy.zip` · **parent** · MAME 0.288 non-merged · programa+gfx+sonido OK (faltan solo PLDs, no usados)
+- **zip:** `biomtoy.zip` · **parent** · MAME 0.288 merged · programa+gfx+sonido OK (faltan solo PLDs, no usados)
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -89,7 +91,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Destroyer (Cidelsa, 1980)
 
-- **zip:** `destryer.zip` · **parent** · MAME 0.288 non-merged · set completo
+- **zip:** `destryer.zip` · **parent** · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -100,7 +102,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Empire City 1931 (Seibu, 1986)
 
-- **zip:** `empcity.zip` · **parent** · MAME 0.288 non-merged · set completo
+- **zip:** `empcity.zip` · **parent** · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -136,7 +138,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Glass (Gaelco, 1993)
 
-- **zip:** `glassa.zip \| glass.zip` · **clon de `glass`** · MAME 0.288 non-merged · set completo
+- **zip:** `glass.zip` · **clon `glassa`** · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -150,7 +152,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Operation Wolf (World, rev 2, set 1)
 
-- **zip:** `opwolf.zip` · **parent** · MAME 0.288 non-merged · set completo
+- **zip:** `opwolf.zip` + `cchip.zip` (dispositivo) · **parent** · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -167,7 +169,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Squash (Gaelco, 1992)
 
-- **zip:** `squash.zip` · **parent** · MAME 0.288 non-merged · set completo
+- **zip:** `squash.zip` · **parent** · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -181,7 +183,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### TH Strikes Back (Gaelco, 1994)
 
-- **zip:** `thoop2.zip` · **parent** · MAME 0.288 non-merged · set completo
+- **zip:** `thoop2.zip` · **parent** · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -194,7 +196,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Thunder Hoop (Gaelco, 1992)
 
-- **zip:** `thoop.zip` · **parent** · MAME 0.288 non-merged · set completo
+- **zip:** `thoop.zip` · **parent** · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -210,7 +212,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### World Rally 2 (Gaelco, 1995)
 
-- **zip:** `wrally2.zip` · **parent** · MAME 0.288 non-merged · ⚠ pendiente
+- **zip:** `wrally2.zip` · **parent** · MAME 0.288 merged · ⚠ pendiente
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -220,7 +222,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### World Rally Championship (Gaelco, 1993, checksum 3873)
 
-- **zip:** `wrallyc.zip` · **clon de `wrally`** · MAME 0.288 non-merged · programa+gfx+sonido OK (faltan solo PLDs, no usados)
+- **zip:** `wrally.zip` · **clon `wrallyc`** · MAME 0.288 merged · programa+gfx+sonido OK (faltan solo PLDs, no usados)
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -236,7 +238,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### World Rally Championship (Gaelco, 1993, checksum DE0D)
 
-- **zip:** `wrally.zip` · **parent** · MAME 0.288 non-merged · programa+gfx+sonido OK (faltan solo PLDs, no usados)
+- **zip:** `wrally.zip` · **parent** · MAME 0.288 merged · programa+gfx+sonido OK (faltan solo PLDs, no usados)
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -252,7 +254,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Xexex (ver EAA) (Konami, 1991)
 
-- **zip:** `xexex.zip` · **parent** (set `xexex`) · MAME 0.288 **merged** · set completo
+- **zip:** `xexex.zip` · **parent** (set `xexex`) · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -273,7 +275,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Orius (ver UAA) (Konami, 1991)
 
-- **zip:** `xexex.zip` · **clon de `xexex`** (set `orius`) · MAME 0.288 **merged** · set completo
+- **zip:** `xexex.zip` · **clon de `xexex`** (set `orius`) · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -294,7 +296,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Xexex (ver AAA) (Konami, 1991)
 
-- **zip:** `xexex.zip` · **clon de `xexex`** (set `xexexa`) · MAME 0.288 **merged** · set completo
+- **zip:** `xexex.zip` · **clon de `xexex`** (set `xexexa`) · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|
@@ -315,7 +317,7 @@ y por CRC de cada ROM contra el `.mra`.
 
 ### Xexex (ver JAA) (Konami, 1991)
 
-- **zip:** `xexex.zip` · **clon de `xexex`** (set `xexexj`) · MAME 0.288 **merged** · set completo
+- **zip:** `xexex.zip` · **clon de `xexex`** (set `xexexj`) · MAME 0.288 merged · set completo
 
 | ROM | CRC | en zip |
 |---|---|:--:|

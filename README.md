@@ -9,7 +9,7 @@ menú *Scripts*.
 > ⚠️ **Solo cores + MRA. Aquí NO hay ROMs.** Los `.mra` son recetas; tú aportas
 > tus propias ROMs (colócalas en `games/mame/`). Sin las ROMs correctas el core
 > no arranca. 👉 **[`ROMS.md`](ROMS.md)** indica el set exacto que espera cada
-> core (nombre de zip, variante **non-merged**, versión **MAME 0.288** y CRC de cada ROM).
+> core (nombre de zip, variante **merged**, versión **MAME 0.288** y CRC de cada ROM).
 
 > ℹ️ **Un único db por plataforma.** Este repo sustituye a los antiguos db por
 > familia (`gaelco-fpga-db`, …). Si ya tenías uno de esos, cambia su `db_url` por
@@ -75,17 +75,16 @@ publicada. No se edita a mano.
 
 > **World Rally Championship** viene en **dos variantes**, que se distinguen por el *checksum* que el
 > juego muestra al arrancar. Ambas usan el **mismo `.rbf`**; solo cambia la ROM:
-> - **checksum DE0D** — coche con **4 faros** en la presentación (set `wrally` → **`wrally.zip`**).
-> - **checksum 3873** — coche con **2 faros** (set `wrallyc` → **`wrallyc.zip`**).
+> - **checksum DE0D** — coche con **4 faros** en la presentación (set `wrally`).
+> - **checksum 3873** — coche con **2 faros** (set `wrallyc`).
 >
-> Necesitas el `.zip` correspondiente a la variante que quieras (romset **MAME 0.288 non-merged**).
+> Las dos salen del mismo **`wrally.zip`** (romset **MAME 0.288 merged**, que trae el parent y sus clones).
 
 > **Xexex** viene en **cuatro versiones regionales** con el **mismo `.rbf`**: la principal
 > `Xexex (FF ver EAA)` (Europa) en `_Arcade/`, y en `_Arcade/_alternatives/_Xexex/` las otras tres:
 > `Orius (FF ver UAA)` (EE. UU.), `Xexex (FF ver AAA)` (Asia) y `Xexex (FF ver JAA)` (Japón).
 >
-> ⚠️ Excepción a la regla *non-merged*: las cuatro piden el romset **merged** de MAME 0.288
-> (**`xexex.zip`** con el padre y los tres clones dentro). Ver [`ROMS.md`](ROMS.md).
+> Las cuatro usan el mismo **`xexex.zip`** (romset **MAME 0.288 merged**). Ver [`ROMS.md`](ROMS.md).
 
 ---
 
