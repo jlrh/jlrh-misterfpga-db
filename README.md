@@ -57,7 +57,7 @@ publicada. No se edita a mano.
 | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992) | 1992 | konami | `ffmoomesa_20260728` | Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra |
 | YoYo Spell (prototype) (FF, Inder, 1992) | 1992 | inder | `ffmegaphx_20260925` | YoYo Spell (prototype) (FF, Inder, 1992).mra |
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `ffglass_20260917` | Glass (FF, Gaelco, 1993).mra |
-| Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260903` | Martial Champion (FF ver EAB).mra |
+| Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260904` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260911` | Mystic Warriors (FF ver EAA).mra |
 | Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `ffaligator_20260918` | Alligator Hunt (FF, Gaelco, 1994).mra |
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `ffthoop2_20260917` | TH Strikes Back (FF, Gaelco, 1994).mra |
