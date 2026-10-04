@@ -45,6 +45,7 @@ publicada. No se edita a mano.
 | Destroyer (FF, Cidelsa, 1980) | 1980 | cidelsa | `ffdestroyer_20260907` | Destroyer (FF, Cidelsa, 1980).mra |
 | Altair (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffaltair_20260907` | Altair (FF, Cidelsa, 1981).mra |
 | Draco (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffdraco_20260908` | Draco (FF, Cidelsa, 1981).mra |
+| Konami GT (FF, Konami, 1985) | 1985 | konami | `ffkonamigt_20261004` | Konami GT (FF, Konami, 1985).mra |
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `ffempirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
 | WEC Le Mans 24 (FF, Konami, 1986) | 1986 | konami | `ffwecleman_20261001` | WEC Le Mans 24 (FF, Konami, 1986).mra |
 | Hot Chase (FF, Konami, 1988) | 1988 | konami | `ffhotchase_20261002` | Hot Chase (FF, Konami, 1988).mra |
@@ -66,7 +67,7 @@ publicada. No se edita a mano.
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
-| Konami GT (FF, Konami, 1985) | 1985 | konami | `ffkonamigt_20261004` | Konami GT (FF, Konami, 1985).mra |
+| Chequered Flag (FF, Konami, 1988) |  |  | `ffcheqflag_20261004` | Chequered Flag (FF, Konami, 1988).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
