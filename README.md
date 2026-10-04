@@ -66,7 +66,7 @@ publicada. No se edita a mano.
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
-| Konami GT (FF, Konami, 1985) |  |  | `ffkonamigt_20261004` | Konami GT (FF, Konami, 1985).mra |
+| Konami GT (FF, Konami, 1985) | 1985 | konami | `ffkonamigt_20261004` | Konami GT (FF, Konami, 1985).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
