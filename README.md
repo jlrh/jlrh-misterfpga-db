@@ -50,6 +50,7 @@ publicada. No se edita a mano.
 | Hot Chase (FF, Konami, 1988) | 1988 | konami | `ffhotchase_20261002` | Hot Chase (FF, Konami, 1988).mra |
 | Altair II (FF, Cidelsa, 198x) | 198? | cidelsa | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
 | Hammer Boy (FF, Dinamic-Inder, 1990) | 1990 | inder | `ffmegaphx_20260925` | Hammer Boy (FF, Dinamic-Inder, 1990).mra |
+| Over Drive (FF, Konami, 1990) | 1990 | konami | `ffoverdriv_20261004` | Over Drive (FF, Konami, 1990).mra |
 | Big Karnak (FF, Gaelco, 1991) | 1991 | gaelco | `ffbigkarnk_20260901` | Big Karnak (FF, Gaelco, 1991).mra |
 | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991) | 1991 | konami | `ffblswhstl_20260926` | Detana!! Twin Bee (FF, Japan ver J, Konami, 1991).mra |
 | Mega Phoenix (FF, Dinamic-Inder, 1991) | 1991 | inder | `ffmegaphx_20260925` | Mega Phoenix (FF, Dinamic-Inder, 1991).mra |
@@ -65,8 +66,8 @@ publicada. No se edita a mano.
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
+| Konami GT (FF, Konami, 1985) |  |  | `ffkonamigt_20261004` | Konami GT (FF, Konami, 1985).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
-| Over Drive (FF, Konami, 1990) | 1990 | konami | `ffoverdriv_20261004` | Over Drive (FF, Konami, 1990).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
