@@ -21,6 +21,7 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 | Glass (Gaelco, 1993) | `glass.zip` | 0.288 | ✅ | clon `glassa` (dentro de `glass.zip`) |
 | Operation Wolf (World, rev 2, set 1) | `opwolf.zip` + `cchip.zip` | 0.288 | ✅ | parent (+ dispositivo `cchip`) |
 | Shadow Force (Technos, 1993, World v3) | `shadfrce.zip` | 0.288 | ✅ | parent |
+| Shadow Force - Henshin Ninja (Technos, 1993, Japan v2) | `shadfrce.zip` | 0.288 | ✅ | clon `shadfrcej` (dentro de `shadfrce.zip`) |
 | Squash (Gaelco, 1992) | `squash.zip` | 0.288 | ✅ | parent |
 | TH Strikes Back (Gaelco, 1994) | `thoop2.zip` | 0.288 | ✅ | parent |
 | Thunder Hoop (Gaelco, 1992) | `thoop.zip` | 0.288 | ✅ | parent |
@@ -38,6 +39,7 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 - **World Rally** tiene dos revisiones, las dos en el mismo `wrally.zip` merged: `wrally` (parent, checksum DE0D, 4 faros) y `wrallyc` (clon, checksum 3873, 2 faros).
 - **World Rally 2** ⚠ pendiente: el `.mra` espera un set no publicado como zip único (ver `HANDOFF`).
 - **Operation Wolf** necesita además `cchip.zip`: la ROM interna del C-Chip (uPD78C11) es un romset de **dispositivo** aparte en MAME, no forma parte de `opwolf.zip`.
+- **Shadow Force** tiene dos `.mra` con el mismo `shadfrce.zip`: la principal (versión mundial) y la alternativa japonesa `Shadow Force - Henshin Ninja (FF, Technos, 1993, Japan v2)` en `_Arcade/_alternatives/_Shadow Force/`.
 - **Xexex** tiene cuatro `.mra` con el mismo `xexex.zip`: la principal `Xexex (FF ver EAA)` y las alternativas `Orius (FF ver UAA)`, `Xexex (FF ver AAA)` y `Xexex (FF ver JAA)` en `_Arcade/_alternatives/_Xexex/`.
 
 ## Detalle por core (nombre + CRC de cada ROM del `.mra`)

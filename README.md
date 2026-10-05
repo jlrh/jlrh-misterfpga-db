@@ -62,6 +62,7 @@ publicada. No se edita a mano.
 | Glass (FF, Gaelco, 1993) | 1993 | gaelco | `ffglass_20260917` | Glass (FF, Gaelco, 1993).mra |
 | Martial Champion (FF ver EAB) | 1993 | konami | `ffmtlchamp_20260904` | Martial Champion (FF ver EAB).mra |
 | Mystic Warriors (FF ver EAA) | 1993 | konami | `ffmystwarr_20260911` | Mystic Warriors (FF ver EAA).mra |
+| Shadow Force (FF, Technos, 1993) | 1993 | technos | `ffshadfrce_20261005` | Shadow Force (FF, Technos, 1993).mra |
 | Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `ffaligator_20260918` | Alligator Hunt (FF, Gaelco, 1994).mra |
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `ffthoop2_20260917` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `ffbiomtoy_20260918` | Biomechanical Toy (FF, Gaelco, 1995).mra |
@@ -69,7 +70,6 @@ publicada. No se edita a mano.
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
-| Shadow Force (FF, Technos, 1993) | 1993 | technos | `ffshadfrce_20261005` | Shadow Force (FF, Technos, 1993).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
@@ -91,6 +91,12 @@ publicada. No se edita a mano.
 > `Orius (FF ver UAA)` (EE. UU.), `Xexex (FF ver AAA)` (Asia) y `Xexex (FF ver JAA)` (Japón).
 >
 > Las cuatro usan el mismo **`xexex.zip`** (romset **MAME 0.288 merged**). Ver [`ROMS.md`](ROMS.md).
+
+> **Shadow Force** viene en **dos versiones** con el **mismo `.rbf`**: la mundial
+> `Shadow Force (FF, Technos, 1993)` en `_Arcade/`, y la japonesa
+> `Shadow Force - Henshin Ninja (FF, Technos, 1993, Japan v2)` en `_Arcade/_alternatives/_Shadow Force/`.
+>
+> Las dos usan el mismo **`shadfrce.zip`** (romset **merged**). Ver [`ROMS.md`](ROMS.md).
 
 ---
 
