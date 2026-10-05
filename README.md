@@ -69,6 +69,7 @@ publicada. No se edita a mano.
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
+| Shadow Force (FF, Technos, 1993) |  |  | `ffshadfrce_20261005` | Shadow Force (FF, Technos, 1993).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |

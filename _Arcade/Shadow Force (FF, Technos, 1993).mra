@@ -1,0 +1,53 @@
+<misterromdescription>
+    <rotation>horizontal</rotation>
+    <name>Shadow Force (FF, Technos, 1993)</name>
+    <setname>shadfrce</setname>
+    <mameversion>0288</mameversion>
+    <year>1993</year>
+    <manufacturer>Technos Japan</manufacturer>
+    <players>2</players>
+    <rbf>ffshadfrce</rbf>
+    <joystick>8</joystick>
+    <region>World</region>
+    <rom index="0" zip="shadfrce.zip" type="merged" md5="None">
+        <interleave output="16">
+            <part name="32a12-011.34" crc="0c041e08" map="01"/>
+            <part name="32a13-010.26" crc="00985361" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="32a14-010.33" crc="ea03ca25" map="01"/>
+            <part name="32j15-01.14" crc="3dc3a84a" map="10"/>
+        </interleave>
+        <part name="32j1-0.4" crc="f1cca740"/>
+        <part name="32j2-0.5" crc="5fac3e01"/>
+        <part name="32j3-0.6" crc="d297925e"/>
+        <part name="32j10-0.42" crc="65daf475"/>
+        <part name="32j9-0.76" crc="16001e81"/>
+        <part name="32j11-0.55" crc="7252d993"/>
+        <part name="32j4-0.12" crc="1ebea5b6"/>
+        <interleave output="32">
+            <part name="32j8-0.32" crc="201bebf6" map="0001" length="0x200000"/>
+            <part name="32j7-0.25" crc="bcb37922" map="0010" length="0x200000"/>
+            <part name="32j6-0.24" crc="6cde8ebe" map="0100" length="0x200000"/>
+            <part name="32j5-0.13" crc="600026b5" map="1000" length="0x200000"/>
+        </interleave>
+    </rom>
+    <rom index="1">
+        <part>00 80</part>
+    </rom>
+    <switches page_id="1" page_name="Switches" base="16" default="fe,ff">
+        <DSW1/>
+        <dip name="Coinage" bits="1,2" ids="3/1,2/1,1/2,1/1"/>
+        <dip name="Continue Price" bits="3" ids="On,Off"/>
+        <dip name="Free Play" bits="4" ids="On,Off"/>
+        <dip name="Flip Screen" bits="5" ids="On,Off"/>
+        <dip name="Demo Sounds" bits="6" ids="Off,On"/>
+        <dip name="Service Mode" bits="7" ids="On,Off"/>
+        <DSW2/>
+        <dip name="Difficulty" bits="8,9" ids="Hardest,Hard,Easy,Normal"/>
+        <dip name="Stage Clear Energy Regain" bits="10,11" ids="0%,25%,50%,100%"/>
+        <dip name="Player&apos;s lives" bits="12" ids="1,2"/>
+        <dip name="Vs. Stage" bits="13" ids="On,Off"/>
+    </switches>
+    <buttons names="Punch,Jump,Special,Start,Coin,Core credits" default="A,B,X,Start,Select,-" count="3"/>
+</misterromdescription>
