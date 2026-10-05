@@ -20,6 +20,7 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 | Empire City 1931 (Seibu, 1986) | `empcity.zip` | 0.288 | ✅ | parent |
 | Glass (Gaelco, 1993) | `glass.zip` | 0.288 | ✅ | clon `glassa` (dentro de `glass.zip`) |
 | Operation Wolf (World, rev 2, set 1) | `opwolf.zip` + `cchip.zip` | 0.288 | ✅ | parent (+ dispositivo `cchip`) |
+| Shadow Force (Technos, 1993, World v3) | `shadfrce.zip` | 0.288 | ✅ | parent |
 | Squash (Gaelco, 1992) | `squash.zip` | 0.288 | ✅ | parent |
 | TH Strikes Back (Gaelco, 1994) | `thoop2.zip` | 0.288 | ✅ | parent |
 | Thunder Hoop (Gaelco, 1992) | `thoop.zip` | 0.288 | ✅ | parent |
