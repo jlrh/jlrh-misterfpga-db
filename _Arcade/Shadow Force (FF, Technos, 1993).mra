@@ -49,5 +49,5 @@
         <dip name="Player&apos;s lives" bits="12" ids="1,2"/>
         <dip name="Vs. Stage" bits="13" ids="On,Off"/>
     </switches>
-    <buttons names="Punch,Jump,Special,Start,Coin,Core credits" default="A,B,X,Start,Select,-" count="3"/>
+    <buttons names="Punch,Kick,Jump,Start,Coin,Core credits" default="A,B,X,Start,Select,-" count="3"/>
 </misterromdescription>
