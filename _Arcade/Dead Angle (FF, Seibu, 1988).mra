@@ -1,0 +1,59 @@
+<misterromdescription>
+    <rotation>horizontal</rotation>
+    <name>Dead Angle (FF, Seibu, 1988)</name>
+    <setname>deadang</setname>
+    <mameversion>0288</mameversion>
+    <year>1988</year>
+    <manufacturer>Seibu Kaihatsu</manufacturer>
+    <players>2</players>
+    <rbf>ffdeadang</rbf>
+    <joystick>8</joystick>
+    <region>World</region>
+    <rom index="0" zip="deadang.zip" type="merged" md5="None">
+        <interleave output="16">
+            <part name="2.18h" crc="1bc05b7e" map="01"/>
+            <part name="4.22h" crc="5751d4e7" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="1.18f" crc="8e7b15cc" map="01"/>
+            <part name="3.21f" crc="e784b1fa" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="5.6b" crc="9c69eb35" map="01"/>
+            <part name="6.9b" crc="34a44ce5" map="10"/>
+        </interleave>
+        <part name="13.b1" crc="13b956fb"/>
+        <part repeat="0xE000"> FF</part>
+        <part name="14.c1" crc="98837d57"/>
+        <part name="15.b11" crc="fabd74f2"/>
+        <part name="16.11a" crc="a8d46fc9"/>
+        <part name="16n" crc="fd70e1a5"/>
+        <part name="16r" crc="92f5e382"/>
+        <part name="l12" crc="c94d5cd2"/>
+        <part name="11m" crc="a366659a"/>
+        <part name="11k" crc="9cf5bcc7"/>
+        <part name="7.21j" crc="fe615fcd"/>
+        <part name="8.21l" crc="905d6b27"/>
+        <part name="10.6l" crc="ca99176b"/>
+        <part name="9.6m" crc="51d868ca"/>
+        <part name="12.6j" crc="2674d23f"/>
+        <part name="11.6k" crc="3dd4d81d"/>
+    </rom>
+    <rom index="1">
+        <part>00 80</part>
+    </rom>
+    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
+        <DSW/>
+        <dip name="Coin A" bits="0,2" ids="5/1,1/5,3/1,1/2,4/1,1/3,2/1,1/1"/>
+        <dip name="Coin B" bits="3,4" ids="2/3,1/2,2/1,1/1"/>
+        <dip name="Service Mode" bits="5" ids="On,Off"/>
+        <dip name="Flip Screen" bits="6" ids="On,Off"/>
+        <dip name="Cabinet" bits="7" ids="Cocktail,Upright"/>
+        <dip name="Difficulty" bits="8,9" ids="Hardest,Hard,Easy,Normal"/>
+        <dip name="Bonus Life" bits="10,11" ids="100K 200K,50K 150K,20K 50K,30K 100K"/>
+        <dip name="Lives" bits="12,13" ids="4,2,1,3"/>
+        <dip name="Demo Sounds" bits="14" ids="Off,On"/>
+        <dip name="User Mode" bits="15" ids="Japan,Overseas"/>
+    </switches>
+    <buttons names="button 1,button 2,Start,Coin" default="A,B,Start,Select" count="2"/>
+</misterromdescription>
