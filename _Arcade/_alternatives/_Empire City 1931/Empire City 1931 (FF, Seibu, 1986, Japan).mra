@@ -1,17 +1,17 @@
 <misterromdescription>
     <rbf>ffempirecity</rbf>
-    <name>Empire City: 1931 (FF, Seibu, 1986)</name>
-    <setname>empcity</setname>
+    <name>Empire City: 1931 (FF, Seibu, 1986, Japan)</name>
+    <setname>empcityj</setname>
     <year>1986</year>
-    <manufacturer>Seibu Kaihatsu</manufacturer>
+    <manufacturer>Seibu Kaihatsu (Taito license)</manufacturer>
     <players>2</players>
     <buttons>2</buttons>
     <rotation>horizontal</rotation>
     <rom index="0" zip="empcity.zip" type="merged" md5="none">
         <part repeat="16">00</part>
-        <part name="ec_01.rom" crc="fe01d9b1"/>
+        <part name="1.bin" crc="8162331c"/>
         <part repeat="32768">00</part>
-        <part name="ec_02.rom" crc="b3cf1ef7"/>
+        <part name="2.bin" crc="960edea6"/>
         <part repeat="98304">00</part>
         <part name="ec_04.rom" crc="aa3e7d1e"/>
         <part repeat="32768">00</part>
@@ -33,7 +33,7 @@
         <part name="19.7w" crc="5170a057"/>
         <part name="20.8w" crc="8299f247"/>
         <part name="21.9w" crc="b57dc037"/>
-        <part name="empcityu_68705.3j" crc="182f7616"/>
+        <part name="empcityj_68705.3j" crc="19bdb0a9"/>
         <part name="17.2n" crc="1b3706b5"/>
         <part name="82s129.006" crc="f9424b5b"/>
         <part name="82s129.002" crc="c883d49b"/>

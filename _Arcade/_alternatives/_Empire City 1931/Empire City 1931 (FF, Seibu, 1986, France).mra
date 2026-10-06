@@ -1,39 +1,39 @@
 <misterromdescription>
     <rbf>ffempirecity</rbf>
-    <name>Empire City: 1931 (FF, Seibu, 1986)</name>
-    <setname>empcity</setname>
+    <name>Empire City: 1931 (FF, Seibu, 1986, France)</name>
+    <setname>empcityfr</setname>
     <year>1986</year>
-    <manufacturer>Seibu Kaihatsu</manufacturer>
+    <manufacturer>Seibu Kaihatsu (Norad license)</manufacturer>
     <players>2</players>
     <buttons>2</buttons>
     <rotation>horizontal</rotation>
     <rom index="0" zip="empcity.zip" type="merged" md5="none">
         <part repeat="16">00</part>
-        <part name="ec_01.rom" crc="fe01d9b1"/>
+        <part name="pr.4t" crc="aa1f84ac"/>
         <part repeat="32768">00</part>
-        <part name="ec_02.rom" crc="b3cf1ef7"/>
+        <part name="pr.2t" crc="af381247"/>
         <part repeat="98304">00</part>
-        <part name="ec_04.rom" crc="aa3e7d1e"/>
+        <part name="092-5c" crc="6a8cb7a6"/>
         <part repeat="32768">00</part>
-        <part name="5j" crc="1b8d0c07"/>
+        <part name="091.5j" crc="1b8d0c07"/>
         <part repeat="8192">00</part>
-        <part name="9.7c" crc="8ceaf4fe"/>
-        <part name="10.8c" crc="5a1a227a"/>
-        <part name="15.7j" crc="27a310bc"/>
-        <part name="16.8j" crc="3d19ce18"/>
-        <part name="5.2c" crc="0c099a31"/>
-        <part name="6.3c" crc="3cc77c31"/>
-        <part name="7.4c" crc="2c6caa5f"/>
-        <part name="8.5c" crc="e11ded31"/>
-        <part name="11.2j" crc="8261ecfe"/>
-        <part name="12.3j" crc="71137301"/>
-        <part name="13.4c" crc="0ae48dd3"/>
-        <part name="14.5j" crc="debf5d76"/>
-        <part name="18.6w" crc="68acd627"/>
-        <part name="19.7w" crc="5170a057"/>
-        <part name="20.8w" crc="8299f247"/>
-        <part name="21.9w" crc="b57dc037"/>
-        <part name="empcityu_68705.3j" crc="182f7616"/>
+        <part name="117.7c" crc="8ceaf4fe"/>
+        <part name="118.8c" crc="5a1a227a"/>
+        <part name="111.7j" crc="27a310bc"/>
+        <part name="112.8j" crc="3d19ce18"/>
+        <part name="113.2c" crc="0c099a31"/>
+        <part name="114.3c" crc="3cc77c31"/>
+        <part name="115.4c" crc="2c6caa5f"/>
+        <part name="116.5c" crc="e11ded31"/>
+        <part name="097.2j" crc="8261ecfe"/>
+        <part name="108.3j" crc="71137301"/>
+        <part name="109.4j" crc="0ae48dd3"/>
+        <part name="110.5j" crc="debf5d76"/>
+        <part name="093.6w" crc="68acd627"/>
+        <part name="094.7w" crc="5170a057"/>
+        <part name="095.8w" crc="8299f247"/>
+        <part name="096.9w" crc="b57dc037"/>
+        <part name="empcityfr_68705.3j" crc="d66ac61f"/>
         <part name="17.2n" crc="1b3706b5"/>
         <part name="82s129.006" crc="f9424b5b"/>
         <part name="82s129.002" crc="c883d49b"/>
