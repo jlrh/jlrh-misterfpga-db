@@ -1,0 +1,59 @@
+<misterromdescription>
+    <rotation>vertical (ccw)</rotation>
+    <name>Guerrilla War (FF, SNK, 1987)</name>
+    <setname>gwar</setname>
+    <mameversion>0288</mameversion>
+    <year>1987</year>
+    <manufacturer>SNK</manufacturer>
+    <players>2</players>
+    <rbf>ffgwar</rbf>
+    <joystick>8</joystick>
+    <region>World</region>
+    <rom index="0" zip="gwar.zip" type="merged" md5="None">
+        <part name="1.2g" crc="5bcfa7dc"/>
+        <part name="2.6g" crc="86d931bf"/>
+        <part name="4.2j" crc="2255f8dd"/>
+        <part name="3.7g" crc="eb544ab9"/>
+        <part name="18.8x" crc="f1dcdaef"/>
+        <part name="19.8z" crc="326e4e5e"/>
+        <part name="gw20.8aa" crc="0aa70967"/>
+        <part name="21.8ac" crc="b7686336"/>
+        <interleave output="32">
+            <part name="gw6.2j" crc="58600f7d" map="0001"/>
+            <part name="7.2l" crc="a3f9b463" map="0010"/>
+            <part name="gw8.2m" crc="092501be" map="0100"/>
+            <part name="gw9.2p" crc="25801ea6" map="1000"/>
+        </interleave>
+        <interleave output="32">
+            <part name="16.2ab" crc="2b46edff" map="0001"/>
+            <part name="14.2y" crc="2d653f0c" map="0010"/>
+            <part name="12.2v" crc="aeb3707f" map="0100"/>
+            <part name="10.2s" crc="8dfc7b87" map="1000"/>
+        </interleave>
+        <interleave output="32">
+            <part name="17.2ad" crc="be19888d" map="0001"/>
+            <part name="15.2aa" crc="ebbf3ba2" map="0010"/>
+            <part name="13.2w" crc="0808f95f" map="0100"/>
+            <part name="11.2t" crc="06822aac" map="1000"/>
+        </interleave>
+        <part name="gw5.8p" crc="80f73e2e"/>
+        <part name="3.9w" crc="090236a3"/>
+        <part name="2.9v" crc="9147de69"/>
+        <part name="1.9u" crc="7f9c839e"/>
+    </rom>
+    <rom index="1">
+        <part>05 80</part>
+    </rom>
+    <switches page_id="1" page_name="Switches" base="16" default="3b,fb">
+        <dip name="Allow Continue" bits="0" ids="No,Yes"/>
+        <dip name="Flip Screen" bits="1" ids="On,Off"/>
+        <dip name="Bonus Life repeat" bits="2" ids="Yes,No"/>
+        <dip name="Lives" bits="3" ids="5,3"/>
+        <dip name="Coin A" bits="4,5" ids="4C/1C,3C/1C,2C/1C,1C/1C"/>
+        <dip name="Coin B" bits="6,7" ids="1C/2C,1C/3C,1C/4C,1C/6C"/>
+        <dip name="Difficulty" bits="8,9" ids="Hardest,Hard,Normal,Easy"/>
+        <dip name="Game Mode" bits="10,11" ids="Freeze,Infinite Lives,Demo Sounds On,Demo Sounds Off"/>
+        <dip name="Bonus Life" bits="12,13" ids="None,50k 100k,40k 80k,30k 60k"/>
+    </switches>
+    <buttons names="Disparo,Granada,Girar izq.,Girar der.,Start,Coin" default="A,B,X,Y,Start,Select" count="4"/>
+</misterromdescription>
