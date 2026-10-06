@@ -19,6 +19,7 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 | Destroyer (Cidelsa, 1980) | `destryer.zip` | 0.288 | ✅ | parent |
 | Empire City 1931 (Seibu, 1986) | `empcity.zip` | 0.288 | ✅ | parent |
 | Glass (Gaelco, 1993) | `glass.zip` | 0.288 | ✅ | clon `glassa` (dentro de `glass.zip`) |
+| Guerrilla War (SNK, 1987, US) | `gwar.zip` | 0.288 | ✅ | parent |
 | Operation Wolf (World, rev 2, set 1) | `opwolf.zip` + `cchip.zip` | 0.288 | ✅ | parent (+ dispositivo `cchip`) |
 | Shadow Force (Technos, 1993, World v3) | `shadfrce.zip` | 0.288 | ✅ | parent |
 | Shadow Force - Henshin Ninja (Technos, 1993, Japan v2) | `shadfrce.zip` | 0.288 | ✅ | clon `shadfrcej` (dentro de `shadfrce.zip`) |
