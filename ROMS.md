@@ -45,6 +45,8 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 - **Operation Wolf** necesita además `cchip.zip`: la ROM interna del C-Chip (uPD78C11) es un romset de **dispositivo** aparte en MAME, no forma parte de `opwolf.zip`.
 - **Shadow Force** tiene tres `.mra` con el mismo `shadfrce.zip`: la principal (versión mundial) y, en `_Arcade/_alternatives/_Shadow Force/`, la japonesa `Shadow Force - Henshin Ninja (FF, Technos, 1993, Japan v2)` y la americana `Shadow Force (FF, Technos, 1993, US v2)` (6 botones).
 - **Xexex** tiene cuatro `.mra` con el mismo `xexex.zip`: la principal `Xexex (FF ver EAA)` y las alternativas `Orius (FF ver UAA)`, `Xexex (FF ver AAA)` y `Xexex (FF ver JAA)` en `_Arcade/_alternatives/_Xexex/`.
+- **Beast Busters** tiene cinco `.mra` con el mismo `bbusters.zip` (merged): la principal (World) y, en `_Arcade/_alternatives/_Beast Busters/`, las US v3 y v2 y las japonesas v2 de 3 y de 2 jugadores.
+- **Mechanized Attack** tiene cuatro `.mra` con el mismo `mechatt.zip` (merged) + `ym2608.zip`: la principal (World) y, en `_Arcade/_alternatives/_Mechanized Attack/`, la japonesa, la US y la US v1 de un jugador.
 
 ## Detalle por core (nombre + CRC de cada ROM del `.mra`)
 
