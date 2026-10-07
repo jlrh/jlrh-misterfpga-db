@@ -1,0 +1,46 @@
+<misterromdescription>
+    <rotation>horizontal</rotation>
+    <name>Mechanized Attack (FF, SNK, 1989)</name>
+    <setname>mechatt</setname>
+    <mameversion>0288</mameversion>
+    <year>1989</year>
+    <manufacturer>SNK</manufacturer>
+    <players>2</players>
+    <rbf>ffmechatt</rbf>
+    <joystick/>
+    <region>World</region>
+    <rom index="0" zip="mechatt.zip|ym2608.zip" type="merged" md5="None">
+        <interleave output="16">
+            <part name="ma4.l12" crc="0d414918" map="01"/>
+            <part name="ma5-e.n12" crc="9bbb852a" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="ma6-f.l13" crc="4055fe8d" map="01"/>
+            <part name="ma7.n13" crc="61d85e1b" map="10"/>
+        </interleave>
+        <part name="ma_3.e13" crc="c06cc8e1"/>
+        <part name="ma_1.l2" crc="24766917"/>
+        <part repeat="0x10000"> 00</part>
+        <part name="mab189a2.bin" crc="e1c8b4d0"/>
+        <part name="mab289c2.bin" crc="14f97ceb"/>
+        <part name="mao89p13.bin" crc="8bcb16cf"/>
+        <part name="ma189p15.bin" crc="b84d9658"/>
+        <part name="ma289p17.bin" crc="6cbe08ac"/>
+        <part name="ma389m15.bin" crc="34d4585e"/>
+        <part name="ma_2.d10" crc="ea4cc30d"/>
+        <part zip="ym2608.zip" name="ym2608_adpcm_rom.bin" crc="23c9e0d8"/>
+        <part name="ma_8.f10" crc="61f3de03"/>
+    </rom>
+    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
+        <DSW1/>
+        <dip name="Coin Slots" bits="0" ids="Individual,Common"/>
+        <dip name="Allow Continue" bits="1" ids="No,Yes"/>
+        <dip name="Magazine / Grenade" bits="2,3" ids="8 / 5,7 / 4,5 / 2,6 / 3"/>
+        <dip name="Coin A" bits="4,5" ids="4/1,3/1,2/1,1/1"/>
+        <dip name="Coin B" bits="6,7" ids="1/4,1/3,1/2,1/1"/>
+        <dip name="Difficulty" bits="8,9" ids="Hardest,Hard,Easy,Normal"/>
+        <dip name="Game Mode" bits="10,11" ids="Freeze,Infinite Energy,Demo Sounds Off,Demo Sounds On"/>
+        <dip name="Service Mode" bits="15" ids="On,Off"/>
+    </switches>
+    <buttons names="Disparo,Granada,Start,Coin" default="A,B,Start,Select" count="2"/>
+</misterromdescription>
