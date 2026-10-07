@@ -14,6 +14,7 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 | Core (.mra) | zip esperado | MAME | merged | tipo 0.288 |
 |---|---|---|:--:|---|
 | Alligator Hunt (Gaelco, 1994) | `aligator.zip` | 0.288 | ✅ | parent |
+| Beast Busters (SNK, 1989, World) | `bbusters.zip` | 0.288 | ✅ | parent |
 | Big Karnak (Gaelco, 1991) | `bigkarnk.zip` | 0.288 | ✅ | parent |
 | Biomechanical Toy (Gaelco, 1995) | `biomtoy.zip` | 0.288 | ✅ | parent |
 | Destroyer (Cidelsa, 1980) | `destryer.zip` | 0.288 | ✅ | parent |
