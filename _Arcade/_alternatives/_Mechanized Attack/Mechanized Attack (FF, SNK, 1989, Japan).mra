@@ -1,0 +1,79 @@
+<misterromdescription>
+    <rotation>horizontal</rotation>
+    <name>Mechanized Attack (FF, SNK, 1989, Japan)</name>
+    <setname>mechattj</setname>
+    <mameversion>0288</mameversion>
+    <year>1989</year>
+    <manufacturer>SNK</manufacturer>
+    <players>2</players>
+    <rbf>ffmechatt</rbf>
+    <joystick/>
+    <region>Japan</region>
+    <rom index="0" zip="mechatt.zip|ym2608.zip" type="merged" md5="None">
+        <interleave output="16">
+            <part name="ma4j.l12" crc="c78baa62" map="01"/>
+            <part name="ma5j.n12" crc="e6bb5952" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="ma6j.l13" crc="332b2f54" map="01"/>
+            <part name="ma7j.n13" crc="12a68fc2" map="10"/>
+        </interleave>
+        <part name="ma_3.e13" crc="c06cc8e1"/>
+        <part name="ma_1.l2" crc="24766917"/>
+        <part repeat="0x10000"> 00</part>
+        <part name="s_21.b3" crc="701a0072"/>
+        <part name="s_22.b4" crc="34e6225c"/>
+        <part name="s_23.b5" crc="9a7399d3"/>
+        <part name="s_24.b6" crc="f097459d"/>
+        <part name="s_17.a3" crc="cc47c4a3"/>
+        <part name="s_18.a4" crc="a04377e8"/>
+        <part name="s_19.a5" crc="b07f5289"/>
+        <part name="s_20.a6" crc="a9bb4fa9"/>
+        <interleave output="16">
+            <part name="s_9.a1" crc="6e8e194c" map="01"/>
+            <part name="s_1.b1" crc="fd9161ed" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="s_10.a2" crc="fad6a1ab" map="01"/>
+            <part name="s_2.b2" crc="549056f0" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="s_11.a3" crc="3887a382" map="01"/>
+            <part name="s_3.b3" crc="cb99f565" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="s_12.a4" crc="63417b49" map="01"/>
+            <part name="s_4.b4" crc="d739d48a" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="s_13.a5" crc="eccd47b6" map="01"/>
+            <part name="s_5.b5" crc="e15244da" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="s_14.a6" crc="bbbf0461" map="01"/>
+            <part name="s_6.b6" crc="4ee89f75" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="s_15.a7" crc="cde29bad" map="01"/>
+            <part name="s_7.b7" crc="065ed221" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="s_16.a8" crc="70f28040" map="01"/>
+            <part name="s_8.b8" crc="a6f8574f" map="10"/>
+        </interleave>
+        <part name="ma_2.d10" crc="ea4cc30d"/>
+        <part zip="ym2608.zip" name="ym2608_adpcm_rom.bin" crc="23c9e0d8"/>
+        <part name="ma_8.f10" crc="61f3de03"/>
+    </rom>
+    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
+        <DSW1/>
+        <dip name="Allow Continue" bits="1" ids="No,Yes"/>
+        <dip name="Magazine / Grenade" bits="2,3" ids="8 / 5,7 / 4,5 / 2,6 / 3"/>
+        <dip name="Coin A" bits="4,5" ids="4/1,3/1,2/1,1/1"/>
+        <dip name="Coin B" bits="6,7" ids="1/4,1/3,1/2,1/1"/>
+        <dip name="Difficulty" bits="8,9" ids="Hardest,Hard,Easy,Normal"/>
+        <dip name="Game Mode" bits="10,11" ids="Freeze,Infinite Energy,Demo Sounds Off,Demo Sounds On"/>
+        <dip name="Service Mode" bits="15" ids="On,Off"/>
+    </switches>
+    <buttons names="Disparo,Granada,Start,Coin" default="A,B,Start,Select" count="2"/>
+</misterromdescription>
