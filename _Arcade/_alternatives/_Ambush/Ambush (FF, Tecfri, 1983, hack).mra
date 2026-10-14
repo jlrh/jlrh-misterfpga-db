@@ -1,0 +1,33 @@
+<misterromdescription>
+    <name>Ambush (FF, Tecfri, 1983, hack)</name>
+    <setname>ambushh</setname>
+    <rbf>ffambush</rbf>
+    <mameversion>0288</mameversion>
+    <year>1983</year>
+    <manufacturer>Tecfri</manufacturer>
+    <category>Shooter</category>
+    <players>2</players>
+    <joystick>8-way</joystick>
+    <rom index="0" zip="ambush.zip" type="merged" md5="none">
+        <part name="a1_hack.i7" crc="a7cd149d"/>
+        <part name="a2.g7" crc="8328d88a"/>
+        <part name="a3.f7" crc="8db57ab5"/>
+        <part name="a4.e7" crc="4a34d2a4"/>
+        <part name="fa1.m4" crc="ad10969e"/>
+        <part name="fa2.n4" crc="e7f134ba"/>
+        <part name="a.bpr" crc="5f27f511"/>
+        <part name="b.bpr" crc="1b03fd3b"/>
+        <part name="13.bpr" crc="547e970f"/>
+        <part name="14.bpr" crc="622a8ce7"/>
+    </rom>
+    <switches default="C4" base="16">
+        <dip name="Lives" bits="0,1" ids="3,4,5,6"/>
+        <dip name="Allow Continue" bits="2" ids="No,Yes"/>
+        <dip name="Service Mode/Free Play" bits="3" ids="Off,On"/>
+        <dip name="Coinage" bits="4" ids="A 1C/1Cr B 1C/2Cr,A 2C/3Cr B 1C/3Cr"/>
+        <dip name="Difficulty" bits="5" ids="Easy,Hard"/>
+        <dip name="Bonus Life" bits="6" ids="120000,80000"/>
+        <dip name="Cabinet" bits="7" ids="Cocktail,Upright"/>
+    </switches>
+    <buttons names="Fire 1,Fire 2,Start 1P,Start 2P,Coin" default="A,B,Start,Select,R"/>
+</misterromdescription>

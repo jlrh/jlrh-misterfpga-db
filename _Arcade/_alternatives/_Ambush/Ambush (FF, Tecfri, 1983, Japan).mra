@@ -1,0 +1,31 @@
+<misterromdescription>
+    <name>Ambush (FF, Tecfri, 1983, Japan)</name>
+    <setname>ambushj</setname>
+    <rbf>ffambush</rbf>
+    <mameversion>0288</mameversion>
+    <year>1983</year>
+    <manufacturer>Tecfri (Nippon Amuse license)</manufacturer>
+    <category>Shooter</category>
+    <players>2</players>
+    <joystick>8-way</joystick>
+    <rom index="0" zip="ambush.zip" type="merged" md5="none">
+        <part name="ambush.h7" crc="ce306563"/>
+        <part name="ambush.g7" crc="90291409"/>
+        <part name="ambush.f7" crc="d023ca29"/>
+        <part name="ambush.e7" crc="6cc2d3ee"/>
+        <part name="ambush.m4" crc="e86ca98a"/>
+        <part name="ambush.n4" crc="ecc0dc85"/>
+        <part name="a.bpr" crc="5f27f511"/>
+        <part name="b.bpr" crc="1b03fd3b"/>
+        <part name="13.bpr" crc="547e970f"/>
+        <part name="14.bpr" crc="622a8ce7"/>
+    </rom>
+    <switches default="C0" base="16">
+        <dip name="Lives" bits="0,1" ids="3,4,5,6"/>
+        <dip name="Coinage" bits="2,3,4" ids="1C/1Cr,1C/2Cr,1C/3Cr,1C/4Cr,2C/1Cr,2C/3Cr,2C/5Cr,Service/Free Play"/>
+        <dip name="Difficulty" bits="5" ids="Easy,Hard"/>
+        <dip name="Bonus Life" bits="6" ids="120000,80000"/>
+        <dip name="Cabinet" bits="7" ids="Cocktail,Upright"/>
+    </switches>
+    <buttons names="Fire 1,Fire 2,Start 1P,Start 2P,Coin" default="A,B,Start,Select,R"/>
+</misterromdescription>
