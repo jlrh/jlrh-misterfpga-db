@@ -1,0 +1,41 @@
+<misterromdescription>
+    <name>Crazy Rally (FF, Tecfri, 1985, Gecas license)</name>
+    <setname>crzrallyg</setname>
+    <rbf>ffcrzrally</rbf>
+    <mameversion>0288</mameversion>
+    <year>1985</year>
+    <manufacturer>Tecfri (Gecas license)</manufacturer>
+    <category>Driving</category>
+    <players>2</players>
+    <joystick>2-way horizontal</joystick>
+    <rotation>vertical (ccw)</rotation>
+    <rom index="0" zip="crzrally.zip" type="merged" md5="none">
+        <part name="12.7g" crc="0cab3ef9"/>
+        <part name="13.7f" crc="e19a8e13"/>
+        <part name="14.7d" crc="4c0351ba"/>
+        <part name="4.5h" crc="29dece8b"/>
+        <part name="16.5g" crc="94289f9e"/>
+        <part name="17.1n" crc="985ed5c8"/>
+        <part name="18.1l" crc="c02ddda2"/>
+        <part name="19.1k" crc="2a0d5bca"/>
+        <part name="20.1i" crc="49c0c2b8"/>
+        <part name="82s129.9n" crc="98ff725a"/>
+        <part name="82s129.9m" crc="d41f5800"/>
+        <part name="82s129.9l" crc="9ed49cb4"/>
+    </rom>
+    <switches default="71,C0" base="16">
+        <dip name="Service Mode" bits="0" ids="On,Off"/>
+        <dip name="Demo Sounds" bits="1" ids="On,Off"/>
+        <dip name="Drive" bits="2,3" ids="A,B,C,D"/>
+        <dip name="Free Play" bits="4" ids="On,Off"/>
+        <dip name="Extra Time" bits="5,6" ids="None,5 Sec,10 Sec,15 Sec"/>
+        <dip name="Cabinet" bits="7" ids="Upright,Cocktail"/>
+        <dip name="Coin A" bits="8,9" ids="1C/1Cr,2C/1Cr,3C/1Cr,4C/1Cr"/>
+        <dip name="Coin B" bits="10,11" ids="1C/2Cr,1C/3Cr,1C/4Cr,1C/6Cr"/>
+        <dip name="Unknown" bits="12" ids="Off,On"/>
+        <dip name="Difficulty" bits="13" ids="Easy,Hard"/>
+        <dip name="Controller" bits="14" ids="Steering Wheel,Joystick"/>
+        <dip name="Mode" bits="15" ids="Stop,Play"/>
+    </switches>
+    <buttons names="Accelerate,Button 2,Start 1P,Start 2P,Coin" default="A,B,Start,Select,R"/>
+</misterromdescription>

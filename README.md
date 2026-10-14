@@ -74,6 +74,7 @@ publicada. No se edita a mano.
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Ambush (FF, Tecfri, 1983) |  |  | `ffambush_20261009` | Ambush (FF, Tecfri, 1983).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
+| Crazy Rally (FF, Tecfri, 1985) |  |  | `ffcrzrally_20261010` | Crazy Rally (FF, Tecfri, 1985).mra |
 | Hole Land (FF, Tecfri, 1984) |  |  | `ffholeland_20261010` | Hole Land (FF, Tecfri, 1984).mra |
 | Music Ball (FF, Tecfri, 1988) |  |  | `ffspeedbal_20261010` | Music Ball (FF, Tecfri, 1988).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
