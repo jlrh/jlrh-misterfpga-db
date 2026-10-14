@@ -1,0 +1,37 @@
+<misterromdescription>
+    <name>Tricky Doc (FF, Tecfri, 1987)</name>
+    <setname>trckydoc</setname>
+    <rbf>fftrckydoc</rbf>
+    <mameversion>0288</mameversion>
+    <year>1987</year>
+    <manufacturer>Tecfri</manufacturer>
+    <category>Platform</category>
+    <players>2</players>
+    <joystick>8-way</joystick>
+    <rom index="0" zip="trckydoc.zip" type="merged" md5="none">
+        <part name="trckydoc.d9" crc="c6242fc3"/>
+        <part name="trckydoc.b9" crc="8645c840"/>
+        <part name="trckydoc.e6" crc="ec326392"/>
+        <part name="trckydoc.g6" crc="6a65c088"/>
+        <part name="trckydoc.h1" crc="8b73cbf3"/>
+        <part name="trckydoc.e1" crc="841be98e"/>
+        <part name="trckydoc.c1" crc="1d25574b"/>
+        <part name="trckydoc.a1" crc="436c59ba"/>
+        <part name="tdclr3.prm" crc="671d0140"/>
+        <part name="tdclr2.prm" crc="874f9050"/>
+        <part name="tdclr1.prm" crc="57f127b0"/>
+    </rom>
+    <switches default="66,2F" base="16">
+        <dip name="Service Mode" bits="0" ids="Off,On"/>
+        <dip name="Demo Sounds" bits="1" ids="Off,On"/>
+        <dip name="Cabinet" bits="2" ids="Cocktail,Upright"/>
+        <dip name="Free Play" bits="3" ids="Off,On"/>
+        <dip name="Difficulty" bits="4,5" ids="Very Hard,Hard,Easy,Very Easy"/>
+        <dip name="Allow Continue" bits="6" ids="No,Yes"/>
+        <dip name="Freeze" bits="7" ids="Off,On"/>
+        <dip name="Coin A" bits="8,9" ids="4C/1Cr,3C/1Cr,2C/1Cr,1C/1Cr"/>
+        <dip name="Coin B" bits="10,11" ids="1C/5Cr,1C/4Cr,1C/3Cr,1C/2Cr"/>
+        <dip name="Lives" bits="12,13" ids="5,4,3,2"/>
+    </switches>
+    <buttons names="Button 1,Button 2,Start 1P,Start 2P,Coin" default="A,B,Start,Select,R"/>
+</misterromdescription>
