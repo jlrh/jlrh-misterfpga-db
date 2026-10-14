@@ -78,6 +78,7 @@ publicada. No se edita a mano.
 | Hole Land (FF, Tecfri, 1984) |  |  | `ffholeland_20261010` | Hole Land (FF, Tecfri, 1984).mra |
 | Music Ball (FF, Tecfri, 1988) |  |  | `ffspeedbal_20261010` | Music Ball (FF, Tecfri, 1988).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
+| Sauro (FF, Tecfri, 1987) |  |  | `ffsauro_20261010` | Sauro (FF, Tecfri, 1987).mra |
 | Speed Ball (FF, Tecfri, 1987) |  |  | `ffspeedbal_20261010` | Speed Ball (FF, Tecfri, 1987).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
