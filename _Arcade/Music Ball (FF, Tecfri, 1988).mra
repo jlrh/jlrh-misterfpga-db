@@ -1,0 +1,38 @@
+<misterromdescription>
+    <name>Music Ball (FF, Tecfri, 1988)</name>
+    <setname>musicbal</setname>
+    <rbf>ffspeedbal</rbf>
+    <mameversion>0288</mameversion>
+    <year>1988</year>
+    <manufacturer>Tecfri / Desystem S.A.</manufacturer>
+    <category>Pinball</category>
+    <rotation>vertical (ccw)</rotation>
+    <players>2</players>
+    <rom index="0" zip="musicbal.zip" type="merged" md5="none">
+        <part name="01.bin" crc="412298a2"/>
+        <part name="03.bin" crc="fdf14446"/>
+        <part name="02.bin" crc="b7d3840d"/>
+        <part name="10.bin" crc="5afd3c42"/>
+        <part name="09.bin" crc="dcde4233"/>
+        <part name="05.bin" crc="e1eec437"/>
+        <part name="08.bin" crc="7e7af52b"/>
+        <part name="04.bin" crc="bf931a33"/>
+        <part name="07.bin" crc="310e1e23"/>
+        <part name="06.bin" crc="2e7772f8"/>
+    </rom>
+    <rom index="1">
+        <part>01</part>
+    </rom>
+    <switches default="BF,FF" base="16">
+        <dip name="Coin B" bits="0,1" ids="1C/5Cr,1C/4Cr,1C/3Cr,1C/2Cr"/>
+        <dip name="Coin A" bits="2,3" ids="4C/1Cr,3C/1Cr,2C/1Cr,1C/1Cr"/>
+        <dip name="Lives" bits="4,5" ids="2,5,4,3"/>
+        <dip name="Cabinet" bits="6" ids="Upright,Cocktail"/>
+        <dip name="Demo Sounds" bits="7" ids="Off,On"/>
+        <dip name="Bonus Life" bits="8,9,10" ids="None,1.8M 2.5M,1.8M,1M 2M 2.5M,1.5M 2M,1.5M,1.2M 1.8M 2.5M,1.2M 1.8M"/>
+        <dip name="Unknown" bits="11" ids="On,Off"/>
+        <dip name="Difficulty 1" bits="12,13" ids="Very Difficult,Difficult,Easy,Very Easy"/>
+        <dip name="Difficulty 2" bits="14,15" ids="Very Difficult,Difficult,Easy,Very Easy"/>
+    </switches>
+    <buttons names="Button 1,Button 2,Button 3,Button 4,Start 1P,Start 2P,Coin" default="A,B,X,Y,Start,Select,R"/>
+</misterromdescription>

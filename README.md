@@ -74,7 +74,9 @@ publicada. No se edita a mano.
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Ambush (FF, Tecfri, 1983) |  |  | `ffambush_20261009` | Ambush (FF, Tecfri, 1983).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
+| Music Ball (FF, Tecfri, 1988) |  |  | `ffspeedbal_20261010` | Music Ball (FF, Tecfri, 1988).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
+| Speed Ball (FF, Tecfri, 1987) |  |  | `ffspeedbal_20261010` | Speed Ball (FF, Tecfri, 1987).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
