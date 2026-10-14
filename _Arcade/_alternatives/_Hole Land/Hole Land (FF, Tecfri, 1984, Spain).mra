@@ -1,0 +1,44 @@
+<misterromdescription>
+    <name>Hole Land (FF, Tecfri, 1984, Spain)</name>
+    <setname>holeland2</setname>
+    <rbf>ffholeland</rbf>
+    <mameversion>0288</mameversion>
+    <year>1984</year>
+    <manufacturer>Tecfri</manufacturer>
+    <category>Shooter</category>
+    <players>2</players>
+    <joystick>2-way horizontal</joystick>
+    <rom index="0" zip="holeland.zip" type="merged" md5="none">
+        <part name="2.2a" crc="b26212a9"/>
+        <part name="3.2b" crc="623bca75"/>
+        <part name="0.1d" crc="a3bafdae"/>
+        <part name="4.2d" crc="88a8ba11"/>
+        <part name="1.1e" crc="ec338f4b"/>
+        <part name="5.4d" crc="7f19e1f9"/>
+        <part name="6.4e" crc="844400e3"/>
+        <part name="7.4m" crc="d7feb25b"/>
+        <part name="8.4n" crc="4b6eec16"/>
+        <part name="9.4p" crc="6fe7fcc0"/>
+        <part name="10.4r" crc="e1e11e8f"/>
+        <part name="82s129.3m" crc="9d6fef5a"/>
+        <part name="82s129.3l" crc="f6682705"/>
+        <part name="82s129.3n" crc="3d7b3af6"/>
+        <part name="sp0256a-al2.1b" crc="b504ac15"/>
+    </rom>
+    <switches default="9C,C4" base="16">
+        <dip name="Service Mode" bits="0" ids="Off,On"/>
+        <dip name="Demo Sounds" bits="1" ids="On,Off"/>
+        <dip name="Language" bits="2" ids="English,Spanish"/>
+        <dip name="Cabinet" bits="3" ids="Cocktail,Upright"/>
+        <dip name="Free Play" bits="4" ids="On,Off"/>
+        <dip name="Bonus Life" bits="5" ids="60000,90000"/>
+        <dip name="Phase 3 Difficulty" bits="6" ids="Easy,Hard"/>
+        <dip name="Coin Mode" bits="7" ids="B,A"/>
+        <dip name="Coin Case" bits="8,9" ids="1,2,3,4"/>
+        <dip name="Lives" bits="10,11" ids="2,3,4,5"/>
+        <dip name="Difficulty" bits="12,13" ids="Very Easy,Easy,Hard,Very Hard"/>
+        <dip name="Monsters" bits="14" ids="Max,Min"/>
+        <dip name="Mode" bits="15" ids="Stop,Play"/>
+    </switches>
+    <buttons names="Button 1,Button 2,Start 1P,Start 2P,Coin" default="A,B,Start,Select,R"/>
+</misterromdescription>
