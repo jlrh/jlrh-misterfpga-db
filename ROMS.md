@@ -14,14 +14,25 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 | Core (.mra) | zip esperado | MAME | merged | tipo 0.288 |
 |---|---|---|:--:|---|
 | Alligator Hunt (Gaelco, 1994) | `aligator.zip` | 0.288 | ✅ | parent |
+| Ambush (Tecfri, 1983) | `ambush.zip` | 0.288 | ✅ | parent |
+| Ambush (Tecfri, 1983, hack) | `ambush.zip` | 0.288 | ✅ | clon `ambushh` (dentro de `ambush.zip`) |
+| Ambush (Tecfri, 1983, Japan) | `ambush.zip` | 0.288 | ✅ | clon `ambushj` (dentro de `ambush.zip`) |
+| Ambush (Tecfri, 1983, Volt Electronics) | `ambush.zip` | 0.288 | ✅ | clon `ambushv` (dentro de `ambush.zip`) |
 | Beast Busters (SNK, 1989, World) | `bbusters.zip` | 0.288 | ✅ | parent |
 | Big Karnak (Gaelco, 1991) | `bigkarnk.zip` | 0.288 | ✅ | parent |
 | Biomechanical Toy (Gaelco, 1995) | `biomtoy.zip` | 0.288 | ✅ | parent |
+| Crazy Rally (Tecfri, 1985) | `crzrally.zip` | 0.288 | ✅ | parent |
+| Crazy Rally (Tecfri, 1985, Gecas license) | `crzrally.zip` | 0.288 | ✅ | clon `crzrallyg` (dentro de `crzrally.zip`) |
+| Crazy Rally (Tecfri, 1985, Recreativos Franco license) | `crzrally.zip` | 0.288 | ✅ | clon `crzrallyrf` (dentro de `crzrally.zip`) |
+| Crazy Rally (Tecfri, 1985, set 2) | `crzrally.zip` | 0.288 | ✅ | clon `crzrallya` (dentro de `crzrally.zip`) |
 | Destroyer (Cidelsa, 1980) | `destryer.zip` | 0.288 | ✅ | parent |
 | Empire City 1931 (Seibu, 1986) | `empcity.zip` | 0.288 | ✅ | parent |
 | Glass (Gaelco, 1993) | `glass.zip` | 0.288 | ✅ | clon `glassa` (dentro de `glass.zip`) |
 | Guerrilla War (SNK, 1987, US) | `gwar.zip` | 0.288 | ✅ | parent |
+| Hole Land (Tecfri, 1984) | `holeland.zip` | 0.288 | ✅ | parent |
+| Hole Land (Tecfri, 1984, Spain) | `holeland.zip` | 0.288 | ✅ | clon `holeland2` (dentro de `holeland.zip`) |
 | Mechanized Attack (SNK, 1989, World) | `mechatt.zip` + `ym2608.zip` | 0.288 | ✅ | parent (+ ROM interna del `ym2608`) |
+| Music Ball (Tecfri, 1988) | `musicbal.zip` | 0.288 | ✅ | parent |
 | Operation Wolf (World, rev 2, set 1) | `opwolf.zip` + `cchip.zip` | 0.288 | ✅ | parent (+ dispositivo `cchip`) |
 | Shadow Force (Technos, 1993, World v3) | `shadfrce.zip` | 0.288 | ✅ | parent |
 | Shadow Force - Henshin Ninja (Technos, 1993, Japan v2) | `shadfrce.zip` | 0.288 | ✅ | clon `shadfrcej` (dentro de `shadfrce.zip`) |
@@ -34,6 +45,18 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 | World Rally Championship (Gaelco, 1993, checksum DE0D) | `wrally.zip` | 0.288 | ✅ | parent |
 | Xexex (ver EAA) (Konami, 1991) | `xexex.zip` | 0.288 | ✅ | parent |
 | Orius (ver UAA) (Konami, 1991) | `xexex.zip` | 0.288 | ✅ | clon `orius` (dentro de `xexex.zip`) |
+| Sauro (Tecfri, 1987) | `sauro.zip` | 0.288 | ✅ | parent |
+| Sauro (Tecfri, 1987, Philko license) | `sauro.zip` | 0.288 | ✅ | clon `saurop` (dentro de `sauro.zip`) |
+| Sauro (Tecfri, 1987, Recreativos Real S.A. license) | `sauro.zip` | 0.288 | ✅ | clon `saurorr` (dentro de `sauro.zip`) |
+| Sauro (Tecfri, 1987, set 2) | `sauro.zip` | 0.288 | ✅ | clon `sauroa` (dentro de `sauro.zip`) |
+| Sauro (Tecfri, 1987, set 3) | `sauro.zip` | 0.288 | ✅ | clon `saurob` (dentro de `sauro.zip`) |
+| Sauro (Tecfri, 1987, set 4, easier) | `sauro.zip` | 0.288 | ✅ | clon `sauroc` (dentro de `sauro.zip`) |
+| Sea Wolf (Tecfri, 1987) | `sauro.zip` | 0.288 | ✅ | clon `seawolft` (dentro de `sauro.zip`) |
+| Speed Ball (Tecfri, 1987) | `speedbal.zip` | 0.288 | ✅ | parent |
+| Speed Ball (Tecfri, 1987, set 2) | `speedbal.zip` | 0.288 | ✅ | clon `speedbala` (dentro de `speedbal.zip`) |
+| Speed Ball (Tecfri, 1987, set 3) | `speedbal.zip` | 0.288 | ✅ | clon `speedbalb` (dentro de `speedbal.zip`) |
+| Tricky Doc (Tecfri, 1987) | `trckydoc.zip` | 0.288 | ✅ | parent |
+| Tricky Doc (Tecfri, 1987, set 2) | `trckydoc.zip` | 0.288 | ✅ | clon `trckydoca` (dentro de `trckydoc.zip`) |
 | Xexex (ver AAA) (Konami, 1991) | `xexex.zip` | 0.288 | ✅ | clon `xexexa` (dentro de `xexex.zip`) |
 | Xexex (ver JAA) (Konami, 1991) | `xexex.zip` | 0.288 | ✅ | clon `xexexj` (dentro de `xexex.zip`) |
 
@@ -47,6 +70,7 @@ Verificado por CRC de cada ROM del `.mra` contra el set merged de MAME 0.288.
 - **Xexex** tiene cuatro `.mra` con el mismo `xexex.zip`: la principal `Xexex (FF ver EAA)` y las alternativas `Orius (FF ver UAA)`, `Xexex (FF ver AAA)` y `Xexex (FF ver JAA)` en `_Arcade/_alternatives/_Xexex/`.
 - **Beast Busters** tiene cinco `.mra` con el mismo `bbusters.zip` (merged): la principal (World) y, en `_Arcade/_alternatives/_Beast Busters/`, las US v3 y v2 y las japonesas v2 de 3 y de 2 jugadores.
 - **Mechanized Attack** tiene cuatro `.mra` con el mismo `mechatt.zip` (merged) + `ym2608.zip`: la principal (World) y, en `_Arcade/_alternatives/_Mechanized Attack/`, la japonesa, la US y la US v1 de un jugador.
+- **Tecfri**: cada juego tiene su `.mra` principal (set parent de MAME) en `_Arcade/` y los clones en `_Arcade/_alternatives/_<Juego>/`, todos con el zip merged del parent: **Ambush** (`ambush.zip`: hack, Japan, Volt Electronics), **Hole Land** (`holeland.zip`: Spain), **Crazy Rally** (`crzrally.zip`: set 2, Gecas license, Recreativos Franco license), **Speed Ball** (`speedbal.zip`: set 2, set 3), **Tricky Doc** (`trckydoc.zip`: set 2) y **Sauro** (`sauro.zip`: set 2, set 3, set 4 (easier), Philko license, Recreativos Real S.A. license y **Sea Wolf**, que en MAME es un clon de Sauro). **Music Ball** (`musicbal.zip`) es un juego aparte que usa el mismo `.rbf` que Speed Ball.
 
 ## Detalle por core (nombre + CRC de cada ROM del `.mra`)
 

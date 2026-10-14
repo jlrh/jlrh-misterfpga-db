@@ -72,19 +72,19 @@ publicada. No se edita a mano.
 | Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `ffbiomtoy_20260918` | Biomechanical Toy (FF, Gaelco, 1995).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
-| Ambush (FF, Tecfri, 1983) |  |  | `ffambush_20261009` | Ambush (FF, Tecfri, 1983).mra |
+| Ambush (FF, Tecfri, 1983) | 1983 | tecfri | `ffambush_20261009` | Ambush (FF, Tecfri, 1983).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
-| Crazy Rally (FF, Tecfri, 1985) |  |  | `ffcrzrally_20261010` | Crazy Rally (FF, Tecfri, 1985).mra |
-| Hole Land (FF, Tecfri, 1984) |  |  | `ffholeland_20261010` | Hole Land (FF, Tecfri, 1984).mra |
-| Music Ball (FF, Tecfri, 1988) |  |  | `ffspeedbal_20261010` | Music Ball (FF, Tecfri, 1988).mra |
+| Crazy Rally (FF, Tecfri, 1985) | 1985 | tecfri | `ffcrzrally_20261010` | Crazy Rally (FF, Tecfri, 1985).mra |
+| Hole Land (FF, Tecfri, 1984) | 1984 | tecfri | `ffholeland_20261010` | Hole Land (FF, Tecfri, 1984).mra |
+| Music Ball (FF, Tecfri, 1988) | 1988 | tecfri | `ffspeedbal_20261010` | Music Ball (FF, Tecfri, 1988).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
-| Sauro (FF, Tecfri, 1987) |  |  | `ffsauro_20261010` | Sauro (FF, Tecfri, 1987).mra |
-| Speed Ball (FF, Tecfri, 1987) |  |  | `ffspeedbal_20261010` | Speed Ball (FF, Tecfri, 1987).mra |
+| Sauro (FF, Tecfri, 1987) | 1987 | tecfri | `ffsauro_20261010` | Sauro (FF, Tecfri, 1987).mra |
+| Speed Ball (FF, Tecfri, 1987) | 1987 | tecfri | `ffspeedbal_20261010` | Speed Ball (FF, Tecfri, 1987).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
-| Tricky Doc (FF, Tecfri, 1987) |  |  | `fftrckydoc_20261010` | Tricky Doc (FF, Tecfri, 1987).mra |
+| Tricky Doc (FF, Tecfri, 1987) | 1987 | tecfri | `fftrckydoc_20261010` | Tricky Doc (FF, Tecfri, 1987).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
 
@@ -108,6 +108,11 @@ publicada. No se edita a mano.
 > `Shadow Force - Henshin Ninja (FF, Technos, 1993, Japan v2)` en `_Arcade/_alternatives/_Shadow Force/`.
 >
 > Las dos usan el mismo **`shadfrce.zip`** (romset **merged**). Ver [`ROMS.md`](ROMS.md).
+
+> **Tecfri**: Ambush, Hole Land, Crazy Rally, Speed Ball, Tricky Doc y Sauro traen sus clones de MAME en
+> `_Arcade/_alternatives/_<Juego>/` (Sea Wolf va en `_Sauro`, del que es clon); Music Ball usa el `.rbf` de Speed Ball.
+>
+> Cada juego usa el zip **merged** de su parent. Ver [`ROMS.md`](ROMS.md).
 
 ---
 
