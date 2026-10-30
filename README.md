@@ -71,6 +71,7 @@ publicada. No se edita a mano.
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `ffthoop2_20260917` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `ffbiomtoy_20260918` | Biomechanical Toy (FF, Gaelco, 1995).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
+| GTI Club (FF, Konami, 1996) | 1996 | konami | `ffgticlub_20261026` | GTI Club (FF, Konami, 1996).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Ambush (FF, Tecfri, 1983) | 1983 | tecfri | `ffambush_20261009` | Ambush (FF, Tecfri, 1983).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
