@@ -45,13 +45,20 @@ publicada. No se edita a mano.
 | Destroyer (FF, Cidelsa, 1980) | 1980 | cidelsa | `ffdestroyer_20260907` | Destroyer (FF, Cidelsa, 1980).mra |
 | Altair (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffaltair_20260907` | Altair (FF, Cidelsa, 1981).mra |
 | Draco (FF, Cidelsa, 1981) | 1981 | cidelsa | `ffdraco_20260908` | Draco (FF, Cidelsa, 1981).mra |
+| Ambush (FF, Tecfri, 1983) | 1983 | tecfri | `ffambush_20261009` | Ambush (FF, Tecfri, 1983).mra |
+| Hole Land (FF, Tecfri, 1984) | 1984 | tecfri | `ffholeland_20261010` | Hole Land (FF, Tecfri, 1984).mra |
+| Crazy Rally (FF, Tecfri, 1985) | 1985 | tecfri | `ffcrzrally_20261010` | Crazy Rally (FF, Tecfri, 1985).mra |
 | Konami GT (FF, Konami, 1985) | 1985 | konami | `ffkonamigt_20261004` | Konami GT (FF, Konami, 1985).mra |
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `ffempirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
 | WEC Le Mans 24 (FF, Konami, 1986) | 1986 | konami | `ffwecleman_20261001` | WEC Le Mans 24 (FF, Konami, 1986).mra |
 | Guerrilla War (FF, SNK, 1987) | 1987 | snk | `ffgwar_20261006` | Guerrilla War (FF, SNK, 1987).mra |
+| Sauro (FF, Tecfri, 1987) | 1987 | tecfri | `ffsauro_20261010` | Sauro (FF, Tecfri, 1987).mra |
+| Speed Ball (FF, Tecfri, 1987) | 1987 | tecfri | `ffspeedbal_20261010` | Speed Ball (FF, Tecfri, 1987).mra |
+| Tricky Doc (FF, Tecfri, 1987) | 1987 | tecfri | `fftrckydoc_20261010` | Tricky Doc (FF, Tecfri, 1987).mra |
 | Chequered Flag (FF, Konami, 1988) | 1988 | konami | `ffcheqflag_20261004` | Chequered Flag (FF, Konami, 1988).mra |
 | Dead Angle (FF, Seibu, 1988) | 1988 | seibu | `ffdeadang_20261006` | Dead Angle (FF, Seibu, 1988).mra |
 | Hot Chase (FF, Konami, 1988) | 1988 | konami | `ffhotchase_20261002` | Hot Chase (FF, Konami, 1988).mra |
+| Music Ball (FF, Tecfri, 1988) | 1988 | tecfri | `ffspeedbal_20261010` | Music Ball (FF, Tecfri, 1988).mra |
 | Beast Busters (FF, SNK, 1989) | 1989 | snk | `ffbbusters_20261007` | Beast Busters (FF, SNK, 1989).mra |
 | Mechanized Attack (FF, SNK, 1989) | 1989 | snk | `ffmechatt_20261007` | Mechanized Attack (FF, SNK, 1989).mra |
 | Altair II (FF, Cidelsa, 198x) | 198? | cidelsa | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
@@ -75,19 +82,12 @@ publicada. No se edita a mano.
 | GTI Club CRT 480i (FF, Konami, 1996) | 1996 | konami | `ffgticlubsd_20261103` | GTI Club CRT 480i (FF, Konami, 1996).mra |
 | Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261104` | Solar Assault (FF, Konami, 1997).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
-| Ambush (FF, Tecfri, 1983) | 1983 | tecfri | `ffambush_20261009` | Ambush (FF, Tecfri, 1983).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
-| Crazy Rally (FF, Tecfri, 1985) | 1985 | tecfri | `ffcrzrally_20261010` | Crazy Rally (FF, Tecfri, 1985).mra |
-| Hole Land (FF, Tecfri, 1984) | 1984 | tecfri | `ffholeland_20261010` | Hole Land (FF, Tecfri, 1984).mra |
-| Music Ball (FF, Tecfri, 1988) | 1988 | tecfri | `ffspeedbal_20261010` | Music Ball (FF, Tecfri, 1988).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
-| Sauro (FF, Tecfri, 1987) | 1987 | tecfri | `ffsauro_20261010` | Sauro (FF, Tecfri, 1987).mra |
-| Speed Ball (FF, Tecfri, 1987) | 1987 | tecfri | `ffspeedbal_20261010` | Speed Ball (FF, Tecfri, 1987).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
-| Tricky Doc (FF, Tecfri, 1987) | 1987 | tecfri | `fftrckydoc_20261010` | Tricky Doc (FF, Tecfri, 1987).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
 
