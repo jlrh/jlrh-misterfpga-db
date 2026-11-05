@@ -78,11 +78,12 @@ publicada. No se edita a mano.
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `ffthoop2_20260917` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `ffbiomtoy_20260918` | Biomechanical Toy (FF, Gaelco, 1995).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
-| GTI Club (FF, Konami, 1996) | 1996 | konami | `ffgticlub_20261104` | GTI Club (FF, Konami, 1996).mra |
+| GTI Club (FF, Konami, 1996) | 1996 | konami | `ffgticlub_20261105` | GTI Club (FF, Konami, 1996).mra |
 | GTI Club CRT 480i (FF, Konami, 1996) | 1996 | konami | `ffgticlubsd_20261103` | GTI Club CRT 480i (FF, Konami, 1996).mra |
-| Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261104` | Solar Assault (FF, Konami, 1997).mra |
+| Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261105` | Solar Assault (FF, Konami, 1997).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
+| Operation Thunder Hurricane (FF, Konami, 1997) |  |  | `ffgticlub_20261105` | Operation Thunder Hurricane (FF, Konami, 1997).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
