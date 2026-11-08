@@ -51,6 +51,7 @@ publicada. No se edita a mano.
 | Konami GT (FF, Konami, 1985) | 1985 | konami | `ffkonamigt_20261004` | Konami GT (FF, Konami, 1985).mra |
 | Empire City 1931 (FF, Seibu, 1986) | 1986 | seibu | `ffempirecity_20260718` | Empire City 1931 (FF, Seibu, 1986).mra |
 | WEC Le Mans 24 (FF, Konami, 1986) | 1986 | konami | `ffwecleman_20261001` | WEC Le Mans 24 (FF, Konami, 1986).mra |
+| Beyond Kung-Fu (FF, Irem, 1987) (location test) | 1987 | irem | `ffbkungfu_20261107` | Beyond Kung-Fu (FF, Irem, 1987) (location test).mra |
 | Guerrilla War (FF, SNK, 1987) | 1987 | snk | `ffgwar_20261006` | Guerrilla War (FF, SNK, 1987).mra |
 | Sauro (FF, Tecfri, 1987) | 1987 | tecfri | `ffsauro_20261010` | Sauro (FF, Tecfri, 1987).mra |
 | Speed Ball (FF, Tecfri, 1987) | 1987 | tecfri | `ffspeedbal_20261010` | Speed Ball (FF, Tecfri, 1987).mra |
@@ -83,7 +84,6 @@ publicada. No se edita a mano.
 | Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261106` | Solar Assault (FF, Konami, 1997).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
-| Beyond Kung-Fu (FF, Irem, 1987) (location test) |  |  | `ffbkungfu_20261107` | Beyond Kung-Fu (FF, Irem, 1987) (location test).mra |
 | Operation Thunder Hurricane (FF, Konami, 1997) |  |  | `ffgticlub_20261106` | Operation Thunder Hurricane (FF, Konami, 1997).mra |
 | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997) |  |  | `ffgticlubsd_20261105` | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
