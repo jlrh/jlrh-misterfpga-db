@@ -1,0 +1,54 @@
+<misterromdescription>
+    <name>Beyond Kung-Fu (FF, Irem, 1987) (location test)</name>
+    <setname>bkungfu</setname>
+    <rbf>ffbkungfu</rbf>
+    <year>1987</year>
+    <manufacturer>Irem</manufacturer>
+    <players>2</players>
+    <buttons>2</buttons>
+    <rotation>horizontal</rotation>
+    <rom index="0" zip="bkungfu.zip" md5="none">
+        <part name="km-a.4e" crc="083632aa"/>
+        <part name="km-a.4d" crc="08b14684"/>
+        <part name="km-z.7j" crc="2bd2aa83"/>
+        <part repeat="0x4000"> FF </part>
+        <part name="km-a.3a" crc="bb709dd6"/>
+        <part name="km-a.3d" crc="ef8551cb"/>
+        <part name="km-a.3f" crc="bec93bdc"/>
+        <part repeat="0x4000"> FF </part>
+        <part name="km-z.3d" crc="a8007429"/>
+        <part name="km-z.3c" crc="a99be837"/>
+        <part name="km-z.3a" crc="0bb7fda0"/>
+        <part repeat="0x8000"> 00 </part>
+        <part name="km-b.4k" crc="7e8bec97"/>
+        <part name="km-b.4f" crc="3a75305b"/>
+        <part name="km-b.4l" crc="fe746127"/>
+        <part name="km-b.4h" crc="f322c5dd"/>
+        <part name="km-b.3n" crc="b88a4d16"/>
+        <part name="km-b.4n" crc="f92be992"/>
+        <part name="km-b.4m" crc="53623913"/>
+        <part name="km-b.3m" crc="1d1ec6f2"/>
+        <part name="km-b.4c" crc="31cb5b98"/>
+        <part name="km-b.4e" crc="942e60fc"/>
+        <part name="km-b.4d" crc="90a03502"/>
+        <part name="km-b.4a" crc="018509c2"/>
+        <part repeat="0x10000"> 00 </part>
+        <part name="km-z.4h" crc="252bb4a9"/>
+        <part name="km-b.1m" crc="73638418"/>
+        <part name="km-b.1n" crc="7967dfdf"/>
+        <part name="km-b.1l" crc="4f44ef5c"/>
+        <part name="km-z-1j" crc="1da0ad7f"/>
+        <part name="km-z-1h" crc="23a217c0"/>
+        <part name="km-z-1f" crc="ec9df4f2"/>
+        <part name="km-b.5p" crc="33409e90"/>
+        <part name="km-b.6f" crc="82c20d12"/>
+    </rom>
+    <switches default="ff,fd" base="16">
+        <dip name="Difficulty" bits="0" ids="Hard,Easy"/>
+        <dip name="Energy Loss" bits="1" ids="Fast,Slow"/>
+        <dip name="Lives" bits="2,3" ids="5,4,2,3"/>
+        <dip name="Coinage" bits="4,5,6,7" ids="Free Play,1C/8C,1C/7C,1C/6C,1C/5C,1C/4C,1C/3C,1C/2C,1C/1C (alt),7C/1C,6C/1C,5C/1C,4C/1C,3C/1C,2C/1C,1C/1C"/>
+        <dip name="Coin Mode" bits="10" ids="Mode 2,Mode 1"/>
+    </switches>
+    <buttons names="Button 1,Button 2,Start,Coin,Pause" default="A,B,Start,Select,R" count="2"/>
+</misterromdescription>
