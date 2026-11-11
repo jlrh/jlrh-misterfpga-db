@@ -87,6 +87,7 @@ publicada. No se edita a mano.
 | Operation Thunder Hurricane (FF, Konami, 1997) |  |  | `ffgticlub_20261106` | Operation Thunder Hurricane (FF, Konami, 1997).mra |
 | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997) |  |  | `ffgticlubsd_20261105` | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
+| Phelios (FF, Namco, 1988) |  |  | `ffphelios_20261111` | Phelios (FF, Namco, 1988).mra |
 | Solar Assault CRT 480i (FF, Konami, 1997) |  |  | `ffgticlubsd_20261105` | Solar Assault CRT 480i (FF, Konami, 1997).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |

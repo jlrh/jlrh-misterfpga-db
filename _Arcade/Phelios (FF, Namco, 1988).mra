@@ -1,0 +1,62 @@
+<misterromdescription>
+    <rbf>ffphelios</rbf>
+    <name>Phelios (FF, Namco, 1988)</name>
+    <setname>phelios</setname>
+    <year>1988</year>
+    <manufacturer>Namco</manufacturer>
+    <players>2</players>
+    <rotation>vertical</rotation>
+    <rom index="0" zip="phelios.zip|namcoc65.zip" type="merged" md5="none">
+        <interleave output="16">
+            <part name="ps2_mpr0.mpr0" crc="28f04e1a" map="01"/>
+            <part name="ps2_mpr1.mpr1" crc="2546501a" map="10"/>
+        </interleave>
+        <interleave output="16">
+            <part name="ps2_spr0.spr0" crc="e9c6987e" map="01"/>
+            <part name="ps2_spr1.spr1" crc="02b074fb" map="10"/>
+        </interleave>
+        <part name="ps2_snd0.snd0" crc="da694838"/>
+        <interleave output="16">
+            <part name="ps2_dat0.13s" crc="ee4194b0" map="01"/>
+            <part name="ps2_dat1.13p" crc="5b22d714" map="10"/>
+        </interleave>
+        <part name="ps_chr-0.chr0" crc="668b6670"/>
+        <part name="ps_shape.shape" crc="58e26fcf" length="0x4000"/>
+        <part name="ps_chr-1.chr1" crc="80c30742"/>
+        <part name="ps_shape.shape" crc="58e26fcf" offset="0x4000" length="0x4000"/>
+        <part name="ps_chr-2.chr2" crc="f4e11bf7"/>
+        <part name="ps_shape.shape" crc="58e26fcf" offset="0x8000" length="0x4000"/>
+        <part name="ps_chr-3.chr3" crc="97a93dc5"/>
+        <part name="ps_shape.shape" crc="58e26fcf" offset="0xc000" length="0x4000"/>
+        <part name="ps_chr-4.chr4" crc="81d965bf"/>
+        <part name="ps_shape.shape" crc="58e26fcf" offset="0x10000" length="0x4000"/>
+        <part name="ps_chr-5.chr5" crc="8ca72d35"/>
+        <part name="ps_shape.shape" crc="58e26fcf" offset="0x14000" length="0x4000"/>
+        <part name="ps_chr-6.chr6" crc="da3543a9"/>
+        <part name="ps_shape.shape" crc="58e26fcf" offset="0x18000" length="0x4000"/>
+        <part repeat="262144">FF</part>
+        <part name="ps_roz-0.roz0" crc="68043d7e"/>
+        <part name="ps_roz-1.roz1" crc="029802b4"/>
+        <part name="ps_roz-2.roz2" crc="bf0b76dc"/>
+        <part name="ps_roz-3.roz3" crc="9c821455"/>
+        <part name="ps_roz-4.roz4" crc="63a39b7a"/>
+        <part name="ps_roz-5.roz5" crc="fc5a99d0"/>
+        <part name="ps_roz-6.roz6" crc="a2a17587"/>
+        <part repeat="131072">00</part>
+        <interleave output="32">
+            <part name="ps_obj-0.obj0" crc="f323db2b" map="1000"/>
+            <part name="ps_obj-1.obj1" crc="faf7c2f5" map="0100"/>
+            <part name="ps_obj-2.obj2" crc="828178ba" map="0010"/>
+            <part name="ps_obj-3.obj3" crc="e84771c8" map="0001"/>
+        </interleave>
+        <interleave output="32">
+            <part name="ps_obj-4.obj4" crc="81ea86c6" map="1000"/>
+            <part name="ps_obj-5.obj5" crc="aaebd51a" map="0100"/>
+            <part name="ps_obj-6.obj6" crc="032ea497" map="0010"/>
+            <part name="ps_obj-7.obj7" crc="f6183b36" map="0001"/>
+        </interleave>
+        <part name="ps_voi-1.voice1" crc="f67376ed"/>
+        <part name="sys2_c65c.3f" crc="a5b2a4ff"/>
+        <part name="sys2mcpu.bin" crc="a342a97e"/>
+    </rom>
+</misterromdescription>
