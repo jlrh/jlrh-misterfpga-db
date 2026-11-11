@@ -60,7 +60,7 @@ publicada. No se edita a mano.
 | Dead Angle (FF, Seibu, 1988) | 1988 | seibu | `ffdeadang_20261006` | Dead Angle (FF, Seibu, 1988).mra |
 | Hot Chase (FF, Konami, 1988) | 1988 | konami | `ffhotchase_20261002` | Hot Chase (FF, Konami, 1988).mra |
 | Music Ball (FF, Tecfri, 1988) | 1988 | tecfri | `ffspeedbal_20261010` | Music Ball (FF, Tecfri, 1988).mra |
-| Phelios (FF, Namco, 1988) | 1988 | namco | `ffphelios_20261111` | Phelios (FF, Namco, 1988).mra |
+| Phelios (FF, Namco, 1988) | 1988 |  | `ffphelios_20261111` | Phelios (FF, Namco, 1988).mra |
 | Beast Busters (FF, SNK, 1989) | 1989 | snk | `ffbbusters_20261007` | Beast Busters (FF, SNK, 1989).mra |
 | Mechanized Attack (FF, SNK, 1989) | 1989 | snk | `ffmechatt_20261007` | Mechanized Attack (FF, SNK, 1989).mra |
 | Altair II (FF, Cidelsa, 198x) | 198? | cidelsa | `ffaltair_20260907` | Altair II (FF, Cidelsa, 198x).mra |
