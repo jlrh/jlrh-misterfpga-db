@@ -85,7 +85,7 @@ publicada. No se edita a mano.
 | Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261112` | Solar Assault (FF, Konami, 1997).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
-| Jet Wave (FF, Konami, 1996) |  |  | `ffjetwave_20261108` | Jet Wave (FF, Konami, 1996).mra |
+| Jet Wave (FF, Konami, 1996) | 1996 | konami | `ffjetwave_20261108` | Jet Wave (FF, Konami, 1996).mra |
 | Operation Thunder Hurricane (FF, Konami, 1997) |  |  | `ffgticlub_20261112` | Operation Thunder Hurricane (FF, Konami, 1997).mra |
 | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997) |  |  | `ffgticlubsd_20261105` | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
