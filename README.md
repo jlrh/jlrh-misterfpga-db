@@ -86,7 +86,6 @@ publicada. No se edita a mano.
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
 | Jet Wave (FF, Konami, 1996) |  |  | `ffjetwave_20261108` | Jet Wave (FF, Konami, 1996).mra |
-| Jet Wave (Japan) (FF, Konami, 1996) |  |  | `ffjetwave_20261108` | Jet Wave (Japan) (FF, Konami, 1996).mra |
 | Operation Thunder Hurricane (FF, Konami, 1997) |  |  | `ffgticlub_20261112` | Operation Thunder Hurricane (FF, Konami, 1997).mra |
 | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997) |  |  | `ffgticlubsd_20261105` | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
@@ -95,7 +94,6 @@ publicada. No se edita a mano.
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
-| Wave Shark (FF, Konami, 1996) |  |  | `ffjetwave_20261108` | Wave Shark (FF, Konami, 1996).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
 
