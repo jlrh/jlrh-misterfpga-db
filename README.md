@@ -82,7 +82,7 @@ publicada. No se edita a mano.
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
 | GTI Club (FF, Konami, 1996) | 1996 | konami | `ffgticlub_20261113` | GTI Club (FF, Konami, 1996).mra |
 | GTI Club CRT 480i (FF, Konami, 1996) | 1996 | konami | `ffgticlubsd_20261116` | GTI Club CRT 480i (FF, Konami, 1996).mra |
-| Jet Wave (FF, Konami, 1996) | 1996 | konami | `ffjetwave_20261108` | Jet Wave (FF, Konami, 1996).mra |
+| Jet Wave (FF, Konami, 1996) | 1996 | konami | `ffjetwave_20261116` | Jet Wave (FF, Konami, 1996).mra |
 | Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261113` | Solar Assault (FF, Konami, 1997).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
