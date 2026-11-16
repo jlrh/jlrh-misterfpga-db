@@ -88,6 +88,7 @@ publicada. No se edita a mano.
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
 | Jet Wave CRT 480i (FF, Konami, 1996) |  |  | `ffjetwavesd_20261116` | Jet Wave CRT 480i (FF, Konami, 1996).mra |
 | Midnight Run - Road Fighter 2 (FF, Konami, 1995) |  |  | `ffmidnrun_20261115` | Midnight Run - Road Fighter 2 (FF, Konami, 1995).mra |
+| Midnight Run - Road Fighter 2 CRT 480i (FF, Konami, 1995) |  |  | `ffmidnrunsd_20261116` | Midnight Run - Road Fighter 2 CRT 480i (FF, Konami, 1995).mra |
 | Operation Thunder Hurricane (FF, Konami, 1997) |  |  | `ffgticlub_20261113` | Operation Thunder Hurricane (FF, Konami, 1997).mra |
 | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997) |  |  | `ffgticlubsd_20261116` | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997).mra |
 | Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
@@ -97,6 +98,7 @@ publicada. No se edita a mano.
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
 | Winding Heat (FF, Konami, 1996) |  |  | `ffmidnrun_20261115` | Winding Heat (FF, Konami, 1996).mra |
+| Winding Heat CRT 480i (FF, Konami, 1996) |  |  | `ffmidnrunsd_20261116` | Winding Heat CRT 480i (FF, Konami, 1996).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
 
