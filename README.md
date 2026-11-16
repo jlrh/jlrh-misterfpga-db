@@ -79,26 +79,26 @@ publicada. No se edita a mano.
 | Alligator Hunt (FF, Gaelco, 1994) | 1994 | gaelco | `ffaligator_20260918` | Alligator Hunt (FF, Gaelco, 1994).mra |
 | TH Strikes Back (FF, Gaelco, 1994) | 1994 | gaelco | `ffthoop2_20260917` | TH Strikes Back (FF, Gaelco, 1994).mra |
 | Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `ffbiomtoy_20260918` | Biomechanical Toy (FF, Gaelco, 1995).mra |
+| Midnight Run - Road Fighter 2 (FF, Konami, 1995) | 1995 | konami | `ffmidnrun_20261115` | Midnight Run - Road Fighter 2 (FF, Konami, 1995).mra |
+| Midnight Run - Road Fighter 2 CRT 480i (FF, Konami, 1995) | 1995 | konami | `ffmidnrunsd_20261116` | Midnight Run - Road Fighter 2 CRT 480i (FF, Konami, 1995).mra |
 | World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
 | GTI Club (FF, Konami, 1996) | 1996 | konami | `ffgticlub_20261113` | GTI Club (FF, Konami, 1996).mra |
 | GTI Club CRT 480i (FF, Konami, 1996) | 1996 | konami | `ffgticlubsd_20261116` | GTI Club CRT 480i (FF, Konami, 1996).mra |
 | Jet Wave (FF, Konami, 1996) | 1996 | konami | `ffjetwave_20261116` | Jet Wave (FF, Konami, 1996).mra |
-| Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261113` | Solar Assault (FF, Konami, 1997).mra |
-| Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
-| Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
 | Jet Wave CRT 480i (FF, Konami, 1996) | 1996 | konami | `ffjetwavesd_20261116` | Jet Wave CRT 480i (FF, Konami, 1996).mra |
-| Midnight Run - Road Fighter 2 (FF, Konami, 1995) | 1995 | konami | `ffmidnrun_20261115` | Midnight Run - Road Fighter 2 (FF, Konami, 1995).mra |
-| Midnight Run - Road Fighter 2 CRT 480i (FF, Konami, 1995) | 1995 | konami | `ffmidnrunsd_20261116` | Midnight Run - Road Fighter 2 CRT 480i (FF, Konami, 1995).mra |
+| Winding Heat (FF, Konami, 1996) | 1996 | konami | `ffmidnrun_20261115` | Winding Heat (FF, Konami, 1996).mra |
+| Winding Heat CRT 480i (FF, Konami, 1996) | 1996 | konami | `ffmidnrunsd_20261116` | Winding Heat CRT 480i (FF, Konami, 1996).mra |
 | Operation Thunder Hurricane (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261113` | Operation Thunder Hurricane (FF, Konami, 1997).mra |
 | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997) | 1997 | konami | `ffgticlubsd_20261116` | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997).mra |
-| Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
+| Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261113` | Solar Assault (FF, Konami, 1997).mra |
 | Solar Assault CRT 480i (FF, Konami, 1997) | 1997 | konami | `ffgticlubsd_20261116` | Solar Assault CRT 480i (FF, Konami, 1997).mra |
+| Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
+| Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
+| Operation Wolf (FF, World, rev 2, set 1) |  | taito | `ffopwolf_20260718` | Operation Wolf (FF, World, rev 2, set 1).mra |
 | Squash (FF, Gaelco, 1992) |  |  | `ffsquash_20260918` | Squash (FF, Gaelco, 1992).mra |
 | Sunset Riders (FF 2 Players ver EBD) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 2 Players ver EBD).mra |
 | Sunset Riders (FF 4 Players ver EAC) |  | konami | `ffssriders_20260831` | Sunset Riders (FF 4 Players ver EAC).mra |
 | Thunder Hoop (FF, Gaelco, 1992) |  |  | `ffthoop_20260901` | Thunder Hoop (FF, Gaelco, 1992).mra |
-| Winding Heat (FF, Konami, 1996) | 1996 | konami | `ffmidnrun_20261115` | Winding Heat (FF, Konami, 1996).mra |
-| Winding Heat CRT 480i (FF, Konami, 1996) | 1996 | konami | `ffmidnrunsd_20261116` | Winding Heat CRT 480i (FF, Konami, 1996).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum 3873) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum 3873).mra |
 | World Rally Championship (FF, Gaelco, 1993, checksum DE0D) |  | gaelco | `ffwrally_20260918` | World Rally Championship (FF, Gaelco, 1993, checksum DE0D).mra |
 
