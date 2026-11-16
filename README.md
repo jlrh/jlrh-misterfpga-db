@@ -86,6 +86,7 @@ publicada. No se edita a mano.
 | Solar Assault (FF, Konami, 1997) | 1997 | konami | `ffgticlub_20261113` | Solar Assault (FF, Konami, 1997).mra |
 | Aero Fighters (FF, Video System, 1992) |  |  | `ffaerofgt_20260917` | Aero Fighters (FF, Video System, 1992).mra |
 | Asterix (FF ver EAD) |  | konami | `ffasterix_20260929` | Asterix (FF ver EAD).mra |
+| Jet Wave CRT 480i (FF, Konami, 1996) |  |  | `ffjetwavesd_20261116` | Jet Wave CRT 480i (FF, Konami, 1996).mra |
 | Midnight Run - Road Fighter 2 (FF, Konami, 1995) |  |  | `ffmidnrun_20261115` | Midnight Run - Road Fighter 2 (FF, Konami, 1995).mra |
 | Operation Thunder Hurricane (FF, Konami, 1997) |  |  | `ffgticlub_20261113` | Operation Thunder Hurricane (FF, Konami, 1997).mra |
 | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997) |  |  | `ffgticlubsd_20261116` | Operation Thunder Hurricane CRT 480i (FF, Konami, 1997).mra |
