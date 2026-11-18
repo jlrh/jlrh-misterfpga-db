@@ -81,7 +81,7 @@ publicada. No se edita a mano.
 | Biomechanical Toy (FF, Gaelco, 1995) | 1995 | gaelco | `ffbiomtoy_20260918` | Biomechanical Toy (FF, Gaelco, 1995).mra |
 | Midnight Run - Road Fighter 2 (FF, Konami, 1995) | 1995 | konami | `ffmidnrun_20261115` | Midnight Run - Road Fighter 2 (FF, Konami, 1995).mra |
 | Midnight Run - Road Fighter 2 CRT 480i (FF, Konami, 1995) | 1995 | konami | `ffmidnrunsd_20261116` | Midnight Run - Road Fighter 2 CRT 480i (FF, Konami, 1995).mra |
-| World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20260917` | World Rally 2 (FF, Gaelco, 1995).mra |
+| World Rally 2 (FF, Gaelco, 1995) | 1995 | gaelco | `ffwrally2_20261117` | World Rally 2 (FF, Gaelco, 1995).mra |
 | GTI Club (FF, Konami, 1996) | 1996 | konami | `ffgticlub_20261113` | GTI Club (FF, Konami, 1996).mra |
 | GTI Club CRT 480i (FF, Konami, 1996) | 1996 | konami | `ffgticlubsd_20261116` | GTI Club CRT 480i (FF, Konami, 1996).mra |
 | Jet Wave (FF, Konami, 1996) | 1996 | konami | `ffjetwave_20261116` | Jet Wave (FF, Konami, 1996).mra |
